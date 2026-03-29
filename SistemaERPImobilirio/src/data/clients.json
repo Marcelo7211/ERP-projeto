@@ -1,0 +1,6002 @@
+[
+  {
+    "id": "cli-ie5d5g5pr",
+    "name": "Fernanda Carvalho",
+    "type": "Vendedor",
+    "email": "pedro.pereira@example.com",
+    "phone": "(11) 97259-2948",
+    "interest": {
+      "propertyType": "Casa",
+      "maxPrice": 2630812
+    },
+    "createdAt": "2025-06-20T02:50:41.916Z"
+  },
+  {
+    "id": "cli-mabnrwu58",
+    "name": "Eduardo Ribeiro",
+    "type": "Locador",
+    "email": "mariana.pereira@example.com",
+    "phone": "(11) 91345-2770",
+    "interest": {
+      "propertyType": "Cobertura",
+      "maxPrice": 1055390
+    },
+    "createdAt": "2025-06-27T23:02:35.300Z"
+  },
+  {
+    "id": "cli-ab3de80d1",
+    "name": "Igor Alves",
+    "type": "Vendedor",
+    "email": "rafael.silva@example.com",
+    "phone": "(11) 95726-6031",
+    "interest": {
+      "propertyType": "Comercial",
+      "maxPrice": 2844205
+    },
+    "createdAt": "2025-07-15T20:55:21.142Z"
+  },
+  {
+    "id": "cli-qv5zifzjr",
+    "name": "Helena Silva",
+    "type": "Comprador",
+    "email": "ana.carvalho@example.com",
+    "phone": "(11) 92347-8642",
+    "interest": {
+      "propertyType": "Casa",
+      "maxPrice": 1727187
+    },
+    "createdAt": "2025-06-19T17:13:06.071Z"
+  },
+  {
+    "id": "cli-yti2x62m4",
+    "name": "Mariana Costa",
+    "type": "Locatário",
+    "email": "julia.alves@example.com",
+    "phone": "(11) 99382-5686",
+    "interest": {
+      "propertyType": "Cobertura",
+      "maxPrice": 2596231
+    },
+    "createdAt": "2025-12-06T14:11:46.077Z"
+  },
+  {
+    "id": "cli-v0awzqtlp",
+    "name": "Carlos Oliveira",
+    "type": "Investidor",
+    "email": "helena.ferreira@example.com",
+    "phone": "(11) 96491-2650",
+    "interest": {
+      "propertyType": "Cobertura",
+      "maxPrice": 568911
+    },
+    "createdAt": "2025-11-02T20:27:33.590Z"
+  },
+  {
+    "id": "cli-y1bfexa68",
+    "name": "Lucas Rodrigues",
+    "type": "Locador",
+    "email": "rafael.pereira@example.com",
+    "phone": "(11) 96841-4619",
+    "interest": {
+      "propertyType": "Casa",
+      "maxPrice": 2250244
+    },
+    "createdAt": "2025-12-03T17:22:01.402Z"
+  },
+  {
+    "id": "cli-398jcrucj",
+    "name": "Fernanda Santos",
+    "type": "Comprador",
+    "email": "mariana.costa@example.com",
+    "phone": "(11) 97915-5435",
+    "interest": {
+      "propertyType": "Terreno",
+      "maxPrice": 1431965
+    },
+    "createdAt": "2025-04-13T18:15:41.483Z"
+  },
+  {
+    "id": "cli-s8x25ix3o",
+    "name": "Daniela Ferreira",
+    "type": "Comprador",
+    "email": "gabriel.almeida@example.com",
+    "phone": "(11) 99518-3790",
+    "interest": {
+      "propertyType": "Cobertura",
+      "maxPrice": 1638589
+    },
+    "createdAt": "2026-01-02T03:50:56.430Z"
+  },
+  {
+    "id": "cli-kgm4oyq1g",
+    "name": "Lucas Alves",
+    "type": "Locatário",
+    "email": "igor.ferreira@example.com",
+    "phone": "(11) 98100-9336",
+    "interest": {
+      "propertyType": "Comercial",
+      "maxPrice": 1022564
+    },
+    "createdAt": "2025-11-13T20:23:05.339Z"
+  },
+  {
+    "id": "cli-lsz6f1zyx",
+    "name": "Bruno Souza",
+    "type": "Investidor",
+    "email": "helena.gomes@example.com",
+    "phone": "(11) 92533-5543",
+    "interest": {
+      "propertyType": "Casa",
+      "maxPrice": 660764
+    },
+    "createdAt": "2025-12-06T21:50:31.025Z"
+  },
+  {
+    "id": "cli-7nxu0widf",
+    "name": "Fernanda Carvalho",
+    "type": "Investidor",
+    "email": "ana.oliveira@example.com",
+    "phone": "(11) 93645-5165",
+    "interest": {
+      "propertyType": "Casa",
+      "maxPrice": 2280289
+    },
+    "createdAt": "2025-08-30T04:39:48.854Z"
+  },
+  {
+    "id": "cli-rlt72wwp6",
+    "name": "Igor Alves",
+    "type": "Locatário",
+    "email": "gabriel.ribeiro@example.com",
+    "phone": "(11) 96200-3894",
+    "interest": {
+      "propertyType": "Casa",
+      "maxPrice": 958423
+    },
+    "createdAt": "2025-08-11T12:01:27.598Z"
+  },
+  {
+    "id": "cli-0jel3w8ke",
+    "name": "Gabriel Pereira",
+    "type": "Vendedor",
+    "email": "mariana.martins@example.com",
+    "phone": "(11) 93164-4014",
+    "interest": {
+      "propertyType": "Apartamento",
+      "maxPrice": 2634439
+    },
+    "createdAt": "2025-03-20T13:19:23.650Z"
+  },
+  {
+    "id": "cli-si7ntxbo0",
+    "name": "Lucas Ribeiro",
+    "type": "Investidor",
+    "email": "fernanda.souza@example.com",
+    "phone": "(11) 97343-9511",
+    "interest": {
+      "propertyType": "Cobertura",
+      "maxPrice": 1500838
+    },
+    "createdAt": "2025-10-20T14:14:10.276Z"
+  },
+  {
+    "id": "cli-tqu71qfvc",
+    "name": "Bruno Silva",
+    "type": "Locador",
+    "email": "gabriel.almeida@example.com",
+    "phone": "(11) 98552-8011",
+    "interest": {
+      "propertyType": "Cobertura",
+      "maxPrice": 1318321
+    },
+    "createdAt": "2025-10-06T13:34:45.798Z"
+  },
+  {
+    "id": "cli-q5bm2rxm4",
+    "name": "Sofia Souza",
+    "type": "Locatário",
+    "email": "fernanda.lima@example.com",
+    "phone": "(11) 95292-2690",
+    "interest": {
+      "propertyType": "Casa",
+      "maxPrice": 1078166
+    },
+    "createdAt": "2025-09-30T15:06:29.013Z"
+  },
+  {
+    "id": "cli-cmwkk9h0a",
+    "name": "Daniela Pereira",
+    "type": "Locador",
+    "email": "helena.carvalho@example.com",
+    "phone": "(11) 94028-2827",
+    "interest": {
+      "propertyType": "Cobertura",
+      "maxPrice": 2395965
+    },
+    "createdAt": "2025-07-08T08:48:37.355Z"
+  },
+  {
+    "id": "cli-38i5kr2s2",
+    "name": "Helena Oliveira",
+    "type": "Locatário",
+    "email": "carlos.pereira@example.com",
+    "phone": "(11) 95578-1976",
+    "interest": {
+      "propertyType": "Cobertura",
+      "maxPrice": 597876
+    },
+    "createdAt": "2026-02-19T17:11:42.531Z"
+  },
+  {
+    "id": "cli-3irfowqxp",
+    "name": "Mariana Ribeiro",
+    "type": "Vendedor",
+    "email": "mariana.gomes@example.com",
+    "phone": "(11) 99377-8043",
+    "interest": {
+      "propertyType": "Terreno",
+      "maxPrice": 2952904
+    },
+    "createdAt": "2026-02-21T00:04:47.450Z"
+  },
+  {
+    "id": "cli-v3kwri4y7",
+    "name": "Bruno Almeida",
+    "type": "Investidor",
+    "email": "sofia.costa@example.com",
+    "phone": "(11) 97551-7460",
+    "interest": {
+      "propertyType": "Apartamento",
+      "maxPrice": 721433
+    },
+    "createdAt": "2025-08-03T17:43:21.670Z"
+  },
+  {
+    "id": "cli-7s76q33pt",
+    "name": "Gabriel Carvalho",
+    "type": "Vendedor",
+    "email": "julia.ferreira@example.com",
+    "phone": "(11) 93846-6599",
+    "interest": {
+      "propertyType": "Cobertura",
+      "maxPrice": 2259787
+    },
+    "createdAt": "2025-09-01T05:47:43.542Z"
+  },
+  {
+    "id": "cli-7glftkzhf",
+    "name": "Rafael Ferreira",
+    "type": "Comprador",
+    "email": "rafael.costa@example.com",
+    "phone": "(11) 99554-2496",
+    "interest": {
+      "propertyType": "Terreno",
+      "maxPrice": 2770320
+    },
+    "createdAt": "2025-12-18T00:43:18.307Z"
+  },
+  {
+    "id": "cli-joqc8u0ej",
+    "name": "Fernanda Almeida",
+    "type": "Investidor",
+    "email": "lucas.oliveira@example.com",
+    "phone": "(11) 97203-6668",
+    "interest": {
+      "propertyType": "Comercial",
+      "maxPrice": 1795640
+    },
+    "createdAt": "2025-05-31T09:00:01.480Z"
+  },
+  {
+    "id": "cli-5hfbvb0ko",
+    "name": "Rafael Ribeiro",
+    "type": "Vendedor",
+    "email": "carlos.ferreira@example.com",
+    "phone": "(11) 97946-2497",
+    "interest": {
+      "propertyType": "Comercial",
+      "maxPrice": 1436242
+    },
+    "createdAt": "2025-07-01T20:53:53.156Z"
+  },
+  {
+    "id": "cli-ykh3wnkr3",
+    "name": "Fernanda Almeida",
+    "type": "Comprador",
+    "email": "carlos.souza@example.com",
+    "phone": "(11) 92512-8133",
+    "interest": {
+      "propertyType": "Comercial",
+      "maxPrice": 1558853
+    },
+    "createdAt": "2025-09-03T06:29:46.191Z"
+  },
+  {
+    "id": "cli-dh89thpb8",
+    "name": "Eduardo Ribeiro",
+    "type": "Investidor",
+    "email": "helena.oliveira@example.com",
+    "phone": "(11) 99159-3713",
+    "interest": {
+      "propertyType": "Terreno",
+      "maxPrice": 2749235
+    },
+    "createdAt": "2026-01-09T22:10:28.574Z"
+  },
+  {
+    "id": "cli-gvg5vgzx8",
+    "name": "Igor Carvalho",
+    "type": "Locador",
+    "email": "sofia.carvalho@example.com",
+    "phone": "(11) 93434-2073",
+    "interest": {
+      "propertyType": "Terreno",
+      "maxPrice": 2106666
+    },
+    "createdAt": "2025-06-26T07:03:17.750Z"
+  },
+  {
+    "id": "cli-mcj3az65c",
+    "name": "Daniela Santos",
+    "type": "Investidor",
+    "email": "gabriel.oliveira@example.com",
+    "phone": "(11) 98612-2980",
+    "interest": {
+      "propertyType": "Casa",
+      "maxPrice": 1422471
+    },
+    "createdAt": "2025-11-02T03:29:56.329Z"
+  },
+  {
+    "id": "cli-7e0tv13ln",
+    "name": "Gabriel Ferreira",
+    "type": "Locador",
+    "email": "eduardo.santos@example.com",
+    "phone": "(11) 92194-6443",
+    "interest": {
+      "propertyType": "Apartamento",
+      "maxPrice": 1067723
+    },
+    "createdAt": "2025-05-18T20:31:11.962Z"
+  },
+  {
+    "id": "cli-1dbzowv1f",
+    "name": "Bruno Oliveira",
+    "type": "Comprador",
+    "email": "eduardo.oliveira@example.com",
+    "phone": "(11) 97028-6491",
+    "interest": {
+      "propertyType": "Cobertura",
+      "maxPrice": 1569631
+    },
+    "createdAt": "2025-06-11T13:53:32.002Z"
+  },
+  {
+    "id": "cli-njxc1qyzt",
+    "name": "Bruno Alves",
+    "type": "Locatário",
+    "email": "igor.gomes@example.com",
+    "phone": "(11) 98394-3231",
+    "interest": {
+      "propertyType": "Apartamento",
+      "maxPrice": 1248461
+    },
+    "createdAt": "2025-12-04T12:43:04.769Z"
+  },
+  {
+    "id": "cli-wot45rujm",
+    "name": "Gabriel Ferreira",
+    "type": "Vendedor",
+    "email": "rafael.gomes@example.com",
+    "phone": "(11) 96068-9029",
+    "interest": {
+      "propertyType": "Terreno",
+      "maxPrice": 742143
+    },
+    "createdAt": "2026-03-17T05:53:45.749Z"
+  },
+  {
+    "id": "cli-7tbq9a8ty",
+    "name": "Ana Silva",
+    "type": "Comprador",
+    "email": "igor.oliveira@example.com",
+    "phone": "(11) 92679-4507",
+    "interest": {
+      "propertyType": "Terreno",
+      "maxPrice": 1944644
+    },
+    "createdAt": "2026-02-13T21:57:23.077Z"
+  },
+  {
+    "id": "cli-y3nbnvh8d",
+    "name": "Igor Oliveira",
+    "type": "Locatário",
+    "email": "helena.carvalho@example.com",
+    "phone": "(11) 94418-8302",
+    "interest": {
+      "propertyType": "Cobertura",
+      "maxPrice": 898460
+    },
+    "createdAt": "2025-12-27T04:43:07.042Z"
+  },
+  {
+    "id": "cli-vwfc9zb68",
+    "name": "Helena Costa",
+    "type": "Investidor",
+    "email": "daniela.martins@example.com",
+    "phone": "(11) 92321-6625",
+    "interest": {
+      "propertyType": "Casa",
+      "maxPrice": 1940925
+    },
+    "createdAt": "2025-08-20T14:31:47.094Z"
+  },
+  {
+    "id": "cli-3f1827isx",
+    "name": "Lucas Souza",
+    "type": "Comprador",
+    "email": "daniela.silva@example.com",
+    "phone": "(11) 93298-9314",
+    "interest": {
+      "propertyType": "Terreno",
+      "maxPrice": 1487301
+    },
+    "createdAt": "2025-05-16T13:34:02.962Z"
+  },
+  {
+    "id": "cli-oahha8gfs",
+    "name": "Rafael Lima",
+    "type": "Comprador",
+    "email": "bruno.rodrigues@example.com",
+    "phone": "(11) 99663-9931",
+    "interest": {
+      "propertyType": "Terreno",
+      "maxPrice": 2525990
+    },
+    "createdAt": "2025-10-22T19:26:00.985Z"
+  },
+  {
+    "id": "cli-2ms7ak8ay",
+    "name": "Bruno Carvalho",
+    "type": "Locador",
+    "email": "mariana.martins@example.com",
+    "phone": "(11) 92451-2547",
+    "interest": {
+      "propertyType": "Cobertura",
+      "maxPrice": 764729
+    },
+    "createdAt": "2025-11-15T13:49:57.738Z"
+  },
+  {
+    "id": "cli-8sp8f5chn",
+    "name": "Pedro Pereira",
+    "type": "Comprador",
+    "email": "igor.santos@example.com",
+    "phone": "(11) 95545-9094",
+    "interest": {
+      "propertyType": "Cobertura",
+      "maxPrice": 631236
+    },
+    "createdAt": "2026-02-16T03:05:25.898Z"
+  },
+  {
+    "id": "cli-v4bu65bnh",
+    "name": "Fernanda Gomes",
+    "type": "Investidor",
+    "email": "daniela.souza@example.com",
+    "phone": "(11) 99028-5250",
+    "interest": {
+      "propertyType": "Casa",
+      "maxPrice": 1259033
+    },
+    "createdAt": "2025-04-06T14:53:42.232Z"
+  },
+  {
+    "id": "cli-t1b38szl6",
+    "name": "Pedro Martins",
+    "type": "Comprador",
+    "email": "igor.carvalho@example.com",
+    "phone": "(11) 97561-9553",
+    "interest": {
+      "propertyType": "Apartamento",
+      "maxPrice": 1239386
+    },
+    "createdAt": "2026-01-02T22:24:58.243Z"
+  },
+  {
+    "id": "cli-72osqv6oa",
+    "name": "Pedro Rodrigues",
+    "type": "Locador",
+    "email": "mariana.oliveira@example.com",
+    "phone": "(11) 98983-7949",
+    "interest": {
+      "propertyType": "Cobertura",
+      "maxPrice": 1682402
+    },
+    "createdAt": "2025-09-29T22:45:08.656Z"
+  },
+  {
+    "id": "cli-p7qvmk6c1",
+    "name": "Daniela Ferreira",
+    "type": "Investidor",
+    "email": "lucas.oliveira@example.com",
+    "phone": "(11) 94722-3435",
+    "interest": {
+      "propertyType": "Casa",
+      "maxPrice": 1362848
+    },
+    "createdAt": "2025-12-26T17:54:11.069Z"
+  },
+  {
+    "id": "cli-ehbf12q1j",
+    "name": "Julia Gomes",
+    "type": "Locador",
+    "email": "bruno.almeida@example.com",
+    "phone": "(11) 92450-2134",
+    "interest": {
+      "propertyType": "Casa",
+      "maxPrice": 1955366
+    },
+    "createdAt": "2025-07-04T15:52:51.949Z"
+  },
+  {
+    "id": "cli-870s2a050",
+    "name": "Fernanda Martins",
+    "type": "Comprador",
+    "email": "bruno.silva@example.com",
+    "phone": "(11) 96476-1029",
+    "interest": {
+      "propertyType": "Terreno",
+      "maxPrice": 712159
+    },
+    "createdAt": "2025-09-08T01:23:46.887Z"
+  },
+  {
+    "id": "cli-72q4grout",
+    "name": "Eduardo Costa",
+    "type": "Vendedor",
+    "email": "eduardo.gomes@example.com",
+    "phone": "(11) 94067-4342",
+    "interest": {
+      "propertyType": "Terreno",
+      "maxPrice": 2681204
+    },
+    "createdAt": "2025-06-22T07:44:05.929Z"
+  },
+  {
+    "id": "cli-lzdtsc7pa",
+    "name": "Eduardo Oliveira",
+    "type": "Comprador",
+    "email": "igor.almeida@example.com",
+    "phone": "(11) 93677-3265",
+    "interest": {
+      "propertyType": "Cobertura",
+      "maxPrice": 1309680
+    },
+    "createdAt": "2025-04-16T04:15:25.181Z"
+  },
+  {
+    "id": "cli-snr7mzoa0",
+    "name": "Sofia Santos",
+    "type": "Locatário",
+    "email": "pedro.rodrigues@example.com",
+    "phone": "(11) 99532-8009",
+    "interest": {
+      "propertyType": "Apartamento",
+      "maxPrice": 979993
+    },
+    "createdAt": "2025-05-29T07:24:50.433Z"
+  },
+  {
+    "id": "cli-zp7zg3xfs",
+    "name": "Daniela Souza",
+    "type": "Comprador",
+    "email": "fernanda.carvalho@example.com",
+    "phone": "(11) 94505-1283",
+    "interest": {
+      "propertyType": "Casa",
+      "maxPrice": 2322495
+    },
+    "createdAt": "2025-10-22T05:22:41.960Z"
+  },
+  {
+    "id": "cli-4lzz1lacx",
+    "name": "Daniela Silva",
+    "type": "Comprador",
+    "email": "pedro.silva@example.com",
+    "phone": "(11) 92272-9487",
+    "interest": {
+      "propertyType": "Terreno",
+      "maxPrice": 2805380
+    },
+    "createdAt": "2025-06-15T09:24:25.367Z"
+  },
+  {
+    "id": "cli-jtsdhpc0p",
+    "name": "Sofia Souza",
+    "type": "Locador",
+    "email": "fernanda.martins@example.com",
+    "phone": "(11) 95374-3932",
+    "interest": {
+      "propertyType": "Cobertura",
+      "maxPrice": 551006
+    },
+    "createdAt": "2026-01-26T10:10:15.065Z"
+  },
+  {
+    "id": "cli-n71pptg0t",
+    "name": "Fernanda Gomes",
+    "type": "Comprador",
+    "email": "eduardo.ribeiro@example.com",
+    "phone": "(11) 93567-1245",
+    "interest": {
+      "propertyType": "Terreno",
+      "maxPrice": 2379602
+    },
+    "createdAt": "2025-05-28T16:41:40.803Z"
+  },
+  {
+    "id": "cli-1hdu1boy8",
+    "name": "Mariana Santos",
+    "type": "Investidor",
+    "email": "fernanda.silva@example.com",
+    "phone": "(11) 98126-5696",
+    "interest": {
+      "propertyType": "Terreno",
+      "maxPrice": 1747184
+    },
+    "createdAt": "2026-02-15T19:03:32.661Z"
+  },
+  {
+    "id": "cli-hsxia6r7p",
+    "name": "Pedro Carvalho",
+    "type": "Locatário",
+    "email": "gabriel.rodrigues@example.com",
+    "phone": "(11) 94828-6972",
+    "interest": {
+      "propertyType": "Terreno",
+      "maxPrice": 657853
+    },
+    "createdAt": "2025-05-26T18:59:45.797Z"
+  },
+  {
+    "id": "cli-yudylszgb",
+    "name": "Daniela Almeida",
+    "type": "Locador",
+    "email": "julia.ribeiro@example.com",
+    "phone": "(11) 98407-7856",
+    "interest": {
+      "propertyType": "Cobertura",
+      "maxPrice": 788608
+    },
+    "createdAt": "2026-03-12T18:19:44.575Z"
+  },
+  {
+    "id": "cli-nfci3e4rs",
+    "name": "Eduardo Pereira",
+    "type": "Comprador",
+    "email": "igor.silva@example.com",
+    "phone": "(11) 94901-6022",
+    "interest": {
+      "propertyType": "Apartamento",
+      "maxPrice": 2315193
+    },
+    "createdAt": "2026-02-14T02:29:50.586Z"
+  },
+  {
+    "id": "cli-6ys03d7m1",
+    "name": "Carlos Martins",
+    "type": "Locador",
+    "email": "ana.gomes@example.com",
+    "phone": "(11) 98405-5605",
+    "interest": {
+      "propertyType": "Terreno",
+      "maxPrice": 2269314
+    },
+    "createdAt": "2025-06-28T08:22:48.514Z"
+  },
+  {
+    "id": "cli-mwf0ervqi",
+    "name": "Gabriel Almeida",
+    "type": "Comprador",
+    "email": "fernanda.pereira@example.com",
+    "phone": "(11) 99523-6133",
+    "interest": {
+      "propertyType": "Comercial",
+      "maxPrice": 2021444
+    },
+    "createdAt": "2025-07-18T13:12:09.935Z"
+  },
+  {
+    "id": "cli-gy206ygos",
+    "name": "Rafael Gomes",
+    "type": "Investidor",
+    "email": "carlos.lima@example.com",
+    "phone": "(11) 98263-8872",
+    "interest": {
+      "propertyType": "Apartamento",
+      "maxPrice": 1388451
+    },
+    "createdAt": "2025-06-26T16:18:33.585Z"
+  },
+  {
+    "id": "cli-cjt6dasqv",
+    "name": "Gabriel Rodrigues",
+    "type": "Vendedor",
+    "email": "eduardo.souza@example.com",
+    "phone": "(11) 97562-4464",
+    "interest": {
+      "propertyType": "Casa",
+      "maxPrice": 1844472
+    },
+    "createdAt": "2025-11-17T22:35:47.858Z"
+  },
+  {
+    "id": "cli-xdnwcdg2x",
+    "name": "Bruno Ribeiro",
+    "type": "Vendedor",
+    "email": "eduardo.carvalho@example.com",
+    "phone": "(11) 99400-6528",
+    "interest": {
+      "propertyType": "Casa",
+      "maxPrice": 2028993
+    },
+    "createdAt": "2026-02-23T05:58:42.621Z"
+  },
+  {
+    "id": "cli-sbnviw3ab",
+    "name": "Gabriel Costa",
+    "type": "Investidor",
+    "email": "igor.lima@example.com",
+    "phone": "(11) 94292-9306",
+    "interest": {
+      "propertyType": "Cobertura",
+      "maxPrice": 2385906
+    },
+    "createdAt": "2025-12-25T03:00:35.988Z"
+  },
+  {
+    "id": "cli-2xloa15jh",
+    "name": "Rafael Almeida",
+    "type": "Investidor",
+    "email": "eduardo.costa@example.com",
+    "phone": "(11) 97347-1620",
+    "interest": {
+      "propertyType": "Casa",
+      "maxPrice": 2647946
+    },
+    "createdAt": "2026-01-12T01:01:44.028Z"
+  },
+  {
+    "id": "cli-77dpp6pxv",
+    "name": "Daniela Alves",
+    "type": "Locador",
+    "email": "julia.almeida@example.com",
+    "phone": "(11) 98946-9609",
+    "interest": {
+      "propertyType": "Comercial",
+      "maxPrice": 1421134
+    },
+    "createdAt": "2025-08-01T04:17:30.879Z"
+  },
+  {
+    "id": "cli-oupv3igiu",
+    "name": "Lucas Rodrigues",
+    "type": "Investidor",
+    "email": "igor.costa@example.com",
+    "phone": "(11) 91942-9691",
+    "interest": {
+      "propertyType": "Casa",
+      "maxPrice": 1796453
+    },
+    "createdAt": "2025-09-24T15:10:26.949Z"
+  },
+  {
+    "id": "cli-lntfczn6c",
+    "name": "Gabriel Gomes",
+    "type": "Locatário",
+    "email": "ana.santos@example.com",
+    "phone": "(11) 98361-7475",
+    "interest": {
+      "propertyType": "Casa",
+      "maxPrice": 2246230
+    },
+    "createdAt": "2026-02-21T10:05:19.286Z"
+  },
+  {
+    "id": "cli-u4lpvzanm",
+    "name": "Bruno Rodrigues",
+    "type": "Comprador",
+    "email": "gabriel.alves@example.com",
+    "phone": "(11) 93649-5008",
+    "interest": {
+      "propertyType": "Apartamento",
+      "maxPrice": 1003341
+    },
+    "createdAt": "2025-10-26T08:01:23.772Z"
+  },
+  {
+    "id": "cli-5tbzhibnz",
+    "name": "Carlos Martins",
+    "type": "Locador",
+    "email": "daniela.ribeiro@example.com",
+    "phone": "(11) 99218-2624",
+    "interest": {
+      "propertyType": "Apartamento",
+      "maxPrice": 1998477
+    },
+    "createdAt": "2026-01-18T05:51:49.864Z"
+  },
+  {
+    "id": "cli-c5ct2ob88",
+    "name": "Lucas Ferreira",
+    "type": "Investidor",
+    "email": "fernanda.souza@example.com",
+    "phone": "(11) 98694-9514",
+    "interest": {
+      "propertyType": "Comercial",
+      "maxPrice": 803295
+    },
+    "createdAt": "2025-09-11T06:07:39.720Z"
+  },
+  {
+    "id": "cli-x1nsg6ull",
+    "name": "Igor Rodrigues",
+    "type": "Locatário",
+    "email": "eduardo.santos@example.com",
+    "phone": "(11) 96524-3029",
+    "interest": {
+      "propertyType": "Comercial",
+      "maxPrice": 1902810
+    },
+    "createdAt": "2025-08-09T11:54:49.708Z"
+  },
+  {
+    "id": "cli-mxnqfledq",
+    "name": "Fernanda Ribeiro",
+    "type": "Vendedor",
+    "email": "fernanda.ribeiro@example.com",
+    "phone": "(11) 93626-9632",
+    "interest": {
+      "propertyType": "Terreno",
+      "maxPrice": 1474921
+    },
+    "createdAt": "2025-04-06T15:16:50.049Z"
+  },
+  {
+    "id": "cli-j5tljv894",
+    "name": "Lucas Costa",
+    "type": "Locatário",
+    "email": "bruno.souza@example.com",
+    "phone": "(11) 92692-6022",
+    "interest": {
+      "propertyType": "Terreno",
+      "maxPrice": 1362183
+    },
+    "createdAt": "2025-10-30T11:44:05.593Z"
+  },
+  {
+    "id": "cli-6lwuzcri0",
+    "name": "Daniela Ribeiro",
+    "type": "Locador",
+    "email": "sofia.souza@example.com",
+    "phone": "(11) 92652-1127",
+    "interest": {
+      "propertyType": "Apartamento",
+      "maxPrice": 2407553
+    },
+    "createdAt": "2025-12-04T03:34:21.820Z"
+  },
+  {
+    "id": "cli-8yjy10aam",
+    "name": "Fernanda Lima",
+    "type": "Locador",
+    "email": "fernanda.lima@example.com",
+    "phone": "(11) 91698-3977",
+    "interest": {
+      "propertyType": "Cobertura",
+      "maxPrice": 544224
+    },
+    "createdAt": "2025-04-26T03:14:21.679Z"
+  },
+  {
+    "id": "cli-m87as1io3",
+    "name": "Igor Ribeiro",
+    "type": "Locador",
+    "email": "gabriel.gomes@example.com",
+    "phone": "(11) 97654-7467",
+    "interest": {
+      "propertyType": "Terreno",
+      "maxPrice": 1476680
+    },
+    "createdAt": "2025-05-28T22:15:25.896Z"
+  },
+  {
+    "id": "cli-cr21lrkbi",
+    "name": "Daniela Rodrigues",
+    "type": "Locatário",
+    "email": "pedro.ferreira@example.com",
+    "phone": "(11) 93467-1308",
+    "interest": {
+      "propertyType": "Terreno",
+      "maxPrice": 2512779
+    },
+    "createdAt": "2025-10-16T11:24:45.615Z"
+  },
+  {
+    "id": "cli-9mmxnykg2",
+    "name": "Helena Pereira",
+    "type": "Vendedor",
+    "email": "lucas.ribeiro@example.com",
+    "phone": "(11) 93213-2282",
+    "interest": {
+      "propertyType": "Casa",
+      "maxPrice": 2021133
+    },
+    "createdAt": "2026-03-06T22:11:33.273Z"
+  },
+  {
+    "id": "cli-wtdh56d7a",
+    "name": "Helena Oliveira",
+    "type": "Investidor",
+    "email": "igor.alves@example.com",
+    "phone": "(11) 95505-9969",
+    "interest": {
+      "propertyType": "Apartamento",
+      "maxPrice": 1471679
+    },
+    "createdAt": "2025-11-13T03:41:08.489Z"
+  },
+  {
+    "id": "cli-o9mi4czaw",
+    "name": "Fernanda Almeida",
+    "type": "Vendedor",
+    "email": "bruno.oliveira@example.com",
+    "phone": "(11) 99735-2977",
+    "interest": {
+      "propertyType": "Terreno",
+      "maxPrice": 657498
+    },
+    "createdAt": "2025-10-29T02:04:22.670Z"
+  },
+  {
+    "id": "cli-gq7io347h",
+    "name": "Julia Alves",
+    "type": "Locatário",
+    "email": "lucas.rodrigues@example.com",
+    "phone": "(11) 92384-4029",
+    "interest": {
+      "propertyType": "Terreno",
+      "maxPrice": 1894064
+    },
+    "createdAt": "2026-02-27T06:30:48.202Z"
+  },
+  {
+    "id": "cli-4lc40638d",
+    "name": "Pedro Oliveira",
+    "type": "Vendedor",
+    "email": "igor.rodrigues@example.com",
+    "phone": "(11) 93855-8694",
+    "interest": {
+      "propertyType": "Apartamento",
+      "maxPrice": 544840
+    },
+    "createdAt": "2025-06-15T13:54:40.704Z"
+  },
+  {
+    "id": "cli-i575gadr3",
+    "name": "Daniela Lima",
+    "type": "Locatário",
+    "email": "rafael.lima@example.com",
+    "phone": "(11) 93431-6323",
+    "interest": {
+      "propertyType": "Terreno",
+      "maxPrice": 1018671
+    },
+    "createdAt": "2025-10-15T16:33:13.504Z"
+  },
+  {
+    "id": "cli-340ut69e2",
+    "name": "Igor Almeida",
+    "type": "Investidor",
+    "email": "daniela.carvalho@example.com",
+    "phone": "(11) 98169-6017",
+    "interest": {
+      "propertyType": "Apartamento",
+      "maxPrice": 2598478
+    },
+    "createdAt": "2026-01-08T20:46:01.455Z"
+  },
+  {
+    "id": "cli-3xww195v2",
+    "name": "Rafael Ribeiro",
+    "type": "Locador",
+    "email": "pedro.gomes@example.com",
+    "phone": "(11) 92883-4757",
+    "interest": {
+      "propertyType": "Cobertura",
+      "maxPrice": 1123145
+    },
+    "createdAt": "2025-12-29T12:10:02.299Z"
+  },
+  {
+    "id": "cli-x8pm1n3a5",
+    "name": "Lucas Souza",
+    "type": "Locatário",
+    "email": "carlos.lima@example.com",
+    "phone": "(11) 97207-3479",
+    "interest": {
+      "propertyType": "Cobertura",
+      "maxPrice": 2114219
+    },
+    "createdAt": "2025-03-19T22:21:36.365Z"
+  },
+  {
+    "id": "cli-0zhdc6v74",
+    "name": "Carlos Silva",
+    "type": "Vendedor",
+    "email": "helena.ribeiro@example.com",
+    "phone": "(11) 97560-6131",
+    "interest": {
+      "propertyType": "Cobertura",
+      "maxPrice": 1542487
+    },
+    "createdAt": "2025-10-15T15:48:33.258Z"
+  },
+  {
+    "id": "cli-gvu1l5wa9",
+    "name": "Carlos Lima",
+    "type": "Comprador",
+    "email": "daniela.alves@example.com",
+    "phone": "(11) 91850-6337",
+    "interest": {
+      "propertyType": "Cobertura",
+      "maxPrice": 834238
+    },
+    "createdAt": "2025-07-26T04:05:44.481Z"
+  },
+  {
+    "id": "cli-tp2wdd8l8",
+    "name": "Eduardo Carvalho",
+    "type": "Vendedor",
+    "email": "julia.rodrigues@example.com",
+    "phone": "(11) 91468-8647",
+    "interest": {
+      "propertyType": "Casa",
+      "maxPrice": 1888264
+    },
+    "createdAt": "2026-02-28T12:38:07.035Z"
+  },
+  {
+    "id": "cli-t519gp2x9",
+    "name": "Fernanda Almeida",
+    "type": "Locatário",
+    "email": "mariana.silva@example.com",
+    "phone": "(11) 94791-9196",
+    "interest": {
+      "propertyType": "Terreno",
+      "maxPrice": 2489064
+    },
+    "createdAt": "2026-01-11T12:10:32.729Z"
+  },
+  {
+    "id": "cli-0mtmc4pd6",
+    "name": "Fernanda Carvalho",
+    "type": "Comprador",
+    "email": "sofia.almeida@example.com",
+    "phone": "(11) 96619-2542",
+    "interest": {
+      "propertyType": "Casa",
+      "maxPrice": 1617494
+    },
+    "createdAt": "2025-04-27T12:48:18.525Z"
+  },
+  {
+    "id": "cli-lzj3es5di",
+    "name": "Eduardo Ferreira",
+    "type": "Investidor",
+    "email": "ana.oliveira@example.com",
+    "phone": "(11) 93694-8953",
+    "interest": {
+      "propertyType": "Casa",
+      "maxPrice": 2007943
+    },
+    "createdAt": "2025-08-31T00:55:01.885Z"
+  },
+  {
+    "id": "cli-9trze3ups",
+    "name": "Helena Alves",
+    "type": "Locador",
+    "email": "fernanda.alves@example.com",
+    "phone": "(11) 94964-5123",
+    "interest": {
+      "propertyType": "Apartamento",
+      "maxPrice": 2054025
+    },
+    "createdAt": "2026-02-01T19:29:50.186Z"
+  },
+  {
+    "id": "cli-6cq92q6yx",
+    "name": "Ana Ferreira",
+    "type": "Comprador",
+    "email": "eduardo.oliveira@example.com",
+    "phone": "(11) 99563-9475",
+    "interest": {
+      "propertyType": "Cobertura",
+      "maxPrice": 1275183
+    },
+    "createdAt": "2025-12-09T01:11:45.338Z"
+  },
+  {
+    "id": "cli-pns1gob4t",
+    "name": "Carlos Ferreira",
+    "type": "Comprador",
+    "email": "lucas.lima@example.com",
+    "phone": "(11) 98555-6948",
+    "interest": {
+      "propertyType": "Apartamento",
+      "maxPrice": 2265630
+    },
+    "createdAt": "2026-03-05T14:08:30.646Z"
+  },
+  {
+    "id": "cli-6jm0wyhph",
+    "name": "Igor Oliveira",
+    "type": "Investidor",
+    "email": "fernanda.alves@example.com",
+    "phone": "(11) 97231-9422",
+    "interest": {
+      "propertyType": "Comercial",
+      "maxPrice": 856336
+    },
+    "createdAt": "2025-12-22T23:36:31.110Z"
+  },
+  {
+    "id": "cli-m864jayqb",
+    "name": "Sofia Almeida",
+    "type": "Vendedor",
+    "email": "fernanda.ribeiro@example.com",
+    "phone": "(11) 98735-2096",
+    "interest": {
+      "propertyType": "Cobertura",
+      "maxPrice": 1257212
+    },
+    "createdAt": "2026-01-25T15:24:51.344Z"
+  },
+  {
+    "id": "cli-hkctjsmir",
+    "name": "Eduardo Carvalho",
+    "type": "Investidor",
+    "email": "mariana.oliveira@example.com",
+    "phone": "(11) 96259-6706",
+    "interest": {
+      "propertyType": "Terreno",
+      "maxPrice": 1035323
+    },
+    "createdAt": "2025-08-01T01:32:53.726Z"
+  },
+  {
+    "id": "cli-ati6d8bpj",
+    "name": "Eduardo Silva",
+    "type": "Locatário",
+    "email": "daniela.carvalho@example.com",
+    "phone": "(11) 92471-5403",
+    "interest": {
+      "propertyType": "Cobertura",
+      "maxPrice": 2696682
+    },
+    "createdAt": "2025-11-23T11:21:37.172Z"
+  },
+  {
+    "id": "cli-cdzkanj79",
+    "name": "Sofia Rodrigues",
+    "type": "Vendedor",
+    "email": "rafael.lima@example.com",
+    "phone": "(11) 94307-2751",
+    "interest": {
+      "propertyType": "Apartamento",
+      "maxPrice": 2811161
+    },
+    "createdAt": "2025-09-28T14:10:29.605Z"
+  },
+  {
+    "id": "cli-sqswo4i45",
+    "name": "Eduardo Almeida",
+    "type": "Locador",
+    "email": "gabriel.ferreira@example.com",
+    "phone": "(11) 91953-9943",
+    "interest": {
+      "propertyType": "Cobertura",
+      "maxPrice": 1012613
+    },
+    "createdAt": "2025-08-02T19:21:56.260Z"
+  },
+  {
+    "id": "cli-r0a1vgq9w",
+    "name": "Carlos Alves",
+    "type": "Vendedor",
+    "email": "gabriel.santos@example.com",
+    "phone": "(11) 95890-9719",
+    "interest": {
+      "propertyType": "Comercial",
+      "maxPrice": 1685083
+    },
+    "createdAt": "2025-11-02T09:12:27.444Z"
+  },
+  {
+    "id": "cli-50vr05gnk",
+    "name": "Carlos Rodrigues",
+    "type": "Vendedor",
+    "email": "rafael.oliveira@example.com",
+    "phone": "(11) 93953-3766",
+    "interest": {
+      "propertyType": "Casa",
+      "maxPrice": 512843
+    },
+    "createdAt": "2025-10-16T16:45:21.934Z"
+  },
+  {
+    "id": "cli-bpr950e0s",
+    "name": "Bruno Pereira",
+    "type": "Vendedor",
+    "email": "ana.costa@example.com",
+    "phone": "(11) 96890-3774",
+    "interest": {
+      "propertyType": "Apartamento",
+      "maxPrice": 1117129
+    },
+    "createdAt": "2025-08-20T06:11:48.128Z"
+  },
+  {
+    "id": "cli-f8p5zzg0r",
+    "name": "Mariana Oliveira",
+    "type": "Vendedor",
+    "email": "sofia.martins@example.com",
+    "phone": "(11) 94980-6623",
+    "interest": {
+      "propertyType": "Cobertura",
+      "maxPrice": 2536345
+    },
+    "createdAt": "2025-08-05T18:40:25.142Z"
+  },
+  {
+    "id": "cli-ncoh86qmr",
+    "name": "Bruno Almeida",
+    "type": "Locador",
+    "email": "fernanda.almeida@example.com",
+    "phone": "(11) 93870-6672",
+    "interest": {
+      "propertyType": "Terreno",
+      "maxPrice": 558411
+    },
+    "createdAt": "2026-01-21T01:05:01.889Z"
+  },
+  {
+    "id": "cli-44y6ymycn",
+    "name": "Carlos Alves",
+    "type": "Comprador",
+    "email": "helena.santos@example.com",
+    "phone": "(11) 97764-9260",
+    "interest": {
+      "propertyType": "Cobertura",
+      "maxPrice": 1524486
+    },
+    "createdAt": "2025-10-22T10:55:18.577Z"
+  },
+  {
+    "id": "cli-2lf9zey8b",
+    "name": "Pedro Souza",
+    "type": "Investidor",
+    "email": "bruno.costa@example.com",
+    "phone": "(11) 94453-9191",
+    "interest": {
+      "propertyType": "Terreno",
+      "maxPrice": 1772991
+    },
+    "createdAt": "2025-04-28T14:06:58.882Z"
+  },
+  {
+    "id": "cli-30v0m7q3r",
+    "name": "Pedro Almeida",
+    "type": "Investidor",
+    "email": "rafael.costa@example.com",
+    "phone": "(11) 95349-1435",
+    "interest": {
+      "propertyType": "Casa",
+      "maxPrice": 2414683
+    },
+    "createdAt": "2025-09-03T09:23:23.294Z"
+  },
+  {
+    "id": "cli-osplarl5b",
+    "name": "Ana Carvalho",
+    "type": "Locador",
+    "email": "pedro.almeida@example.com",
+    "phone": "(11) 93689-4461",
+    "interest": {
+      "propertyType": "Comercial",
+      "maxPrice": 1592967
+    },
+    "createdAt": "2025-06-25T16:18:44.411Z"
+  },
+  {
+    "id": "cli-jj7s6p1f1",
+    "name": "Julia Rodrigues",
+    "type": "Locador",
+    "email": "mariana.santos@example.com",
+    "phone": "(11) 96899-3327",
+    "interest": {
+      "propertyType": "Apartamento",
+      "maxPrice": 1316652
+    },
+    "createdAt": "2025-05-12T00:25:32.814Z"
+  },
+  {
+    "id": "cli-c4sfn5b62",
+    "name": "Mariana Costa",
+    "type": "Vendedor",
+    "email": "pedro.lima@example.com",
+    "phone": "(11) 98999-7574",
+    "interest": {
+      "propertyType": "Apartamento",
+      "maxPrice": 2386836
+    },
+    "createdAt": "2025-04-04T10:28:06.998Z"
+  },
+  {
+    "id": "cli-l25t5g4ax",
+    "name": "Helena Lima",
+    "type": "Investidor",
+    "email": "gabriel.pereira@example.com",
+    "phone": "(11) 96278-9214",
+    "interest": {
+      "propertyType": "Casa",
+      "maxPrice": 917035
+    },
+    "createdAt": "2026-02-27T17:11:07.197Z"
+  },
+  {
+    "id": "cli-sh8qt8tk0",
+    "name": "Gabriel Alves",
+    "type": "Locador",
+    "email": "daniela.gomes@example.com",
+    "phone": "(11) 96538-8591",
+    "interest": {
+      "propertyType": "Terreno",
+      "maxPrice": 666654
+    },
+    "createdAt": "2025-07-13T15:13:46.991Z"
+  },
+  {
+    "id": "cli-65aslh7yy",
+    "name": "Helena Gomes",
+    "type": "Locador",
+    "email": "gabriel.oliveira@example.com",
+    "phone": "(11) 91315-4038",
+    "interest": {
+      "propertyType": "Comercial",
+      "maxPrice": 1110827
+    },
+    "createdAt": "2025-12-17T18:31:20.198Z"
+  },
+  {
+    "id": "cli-8zhuwx9ad",
+    "name": "Lucas Silva",
+    "type": "Comprador",
+    "email": "bruno.rodrigues@example.com",
+    "phone": "(11) 97417-9945",
+    "interest": {
+      "propertyType": "Apartamento",
+      "maxPrice": 2777753
+    },
+    "createdAt": "2025-10-23T10:17:21.156Z"
+  },
+  {
+    "id": "cli-8dzkyrzas",
+    "name": "Mariana Martins",
+    "type": "Comprador",
+    "email": "igor.carvalho@example.com",
+    "phone": "(11) 95620-7981",
+    "interest": {
+      "propertyType": "Apartamento",
+      "maxPrice": 1336228
+    },
+    "createdAt": "2025-08-24T05:00:54.074Z"
+  },
+  {
+    "id": "cli-2g9nzpa3s",
+    "name": "Julia Ferreira",
+    "type": "Vendedor",
+    "email": "julia.pereira@example.com",
+    "phone": "(11) 96931-9035",
+    "interest": {
+      "propertyType": "Comercial",
+      "maxPrice": 2764667
+    },
+    "createdAt": "2025-05-19T19:52:49.946Z"
+  },
+  {
+    "id": "cli-p5u5l8k2y",
+    "name": "Carlos Alves",
+    "type": "Locador",
+    "email": "helena.pereira@example.com",
+    "phone": "(11) 98314-4747",
+    "interest": {
+      "propertyType": "Casa",
+      "maxPrice": 2637812
+    },
+    "createdAt": "2026-01-07T09:22:08.535Z"
+  },
+  {
+    "id": "cli-vhdr4yle5",
+    "name": "Igor Santos",
+    "type": "Locador",
+    "email": "daniela.ferreira@example.com",
+    "phone": "(11) 98020-1100",
+    "interest": {
+      "propertyType": "Cobertura",
+      "maxPrice": 2788340
+    },
+    "createdAt": "2025-08-18T20:17:09.300Z"
+  },
+  {
+    "id": "cli-dbifqp0hc",
+    "name": "Helena Ferreira",
+    "type": "Locador",
+    "email": "carlos.lima@example.com",
+    "phone": "(11) 91879-5400",
+    "interest": {
+      "propertyType": "Comercial",
+      "maxPrice": 704816
+    },
+    "createdAt": "2026-01-09T01:54:58.633Z"
+  },
+  {
+    "id": "cli-uvipc7bm9",
+    "name": "Carlos Ribeiro",
+    "type": "Investidor",
+    "email": "mariana.martins@example.com",
+    "phone": "(11) 97398-5402",
+    "interest": {
+      "propertyType": "Casa",
+      "maxPrice": 2281770
+    },
+    "createdAt": "2025-05-31T10:20:51.579Z"
+  },
+  {
+    "id": "cli-5y1ij8kcc",
+    "name": "Igor Santos",
+    "type": "Locatário",
+    "email": "fernanda.costa@example.com",
+    "phone": "(11) 95952-6865",
+    "interest": {
+      "propertyType": "Apartamento",
+      "maxPrice": 1522623
+    },
+    "createdAt": "2025-05-13T11:27:07.776Z"
+  },
+  {
+    "id": "cli-okq9uxjbj",
+    "name": "Lucas Santos",
+    "type": "Locador",
+    "email": "rafael.silva@example.com",
+    "phone": "(11) 91316-1665",
+    "interest": {
+      "propertyType": "Casa",
+      "maxPrice": 2641242
+    },
+    "createdAt": "2025-08-26T00:53:40.413Z"
+  },
+  {
+    "id": "cli-lafl9q2ln",
+    "name": "Lucas Ferreira",
+    "type": "Vendedor",
+    "email": "fernanda.almeida@example.com",
+    "phone": "(11) 94883-9600",
+    "interest": {
+      "propertyType": "Apartamento",
+      "maxPrice": 2216878
+    },
+    "createdAt": "2025-12-09T22:16:43.502Z"
+  },
+  {
+    "id": "cli-u129vcaep",
+    "name": "Daniela Alves",
+    "type": "Locatário",
+    "email": "gabriel.gomes@example.com",
+    "phone": "(11) 97480-1736",
+    "interest": {
+      "propertyType": "Casa",
+      "maxPrice": 607489
+    },
+    "createdAt": "2025-04-30T11:56:16.148Z"
+  },
+  {
+    "id": "cli-ztj45uxzr",
+    "name": "Lucas Souza",
+    "type": "Investidor",
+    "email": "daniela.pereira@example.com",
+    "phone": "(11) 94323-4193",
+    "interest": {
+      "propertyType": "Apartamento",
+      "maxPrice": 973796
+    },
+    "createdAt": "2026-01-08T08:38:28.490Z"
+  },
+  {
+    "id": "cli-3hffoyi72",
+    "name": "Daniela Gomes",
+    "type": "Locador",
+    "email": "mariana.pereira@example.com",
+    "phone": "(11) 98032-3115",
+    "interest": {
+      "propertyType": "Comercial",
+      "maxPrice": 1451352
+    },
+    "createdAt": "2025-10-16T15:47:38.496Z"
+  },
+  {
+    "id": "cli-s9mw2600b",
+    "name": "Carlos Almeida",
+    "type": "Comprador",
+    "email": "ana.martins@example.com",
+    "phone": "(11) 94914-7623",
+    "interest": {
+      "propertyType": "Cobertura",
+      "maxPrice": 1679681
+    },
+    "createdAt": "2025-04-21T08:15:55.185Z"
+  },
+  {
+    "id": "cli-mh8932vtq",
+    "name": "Gabriel Lima",
+    "type": "Locador",
+    "email": "eduardo.martins@example.com",
+    "phone": "(11) 95881-4734",
+    "interest": {
+      "propertyType": "Terreno",
+      "maxPrice": 1728994
+    },
+    "createdAt": "2025-07-07T20:26:12.398Z"
+  },
+  {
+    "id": "cli-iyzvt9t1n",
+    "name": "Eduardo Alves",
+    "type": "Locador",
+    "email": "gabriel.costa@example.com",
+    "phone": "(11) 98160-9154",
+    "interest": {
+      "propertyType": "Apartamento",
+      "maxPrice": 2375984
+    },
+    "createdAt": "2025-11-22T11:21:50.591Z"
+  },
+  {
+    "id": "cli-doe1j0vvb",
+    "name": "Igor Costa",
+    "type": "Locatário",
+    "email": "eduardo.pereira@example.com",
+    "phone": "(11) 91437-4108",
+    "interest": {
+      "propertyType": "Terreno",
+      "maxPrice": 2932544
+    },
+    "createdAt": "2026-03-03T02:07:44.069Z"
+  },
+  {
+    "id": "cli-9azcl99t5",
+    "name": "Ana Almeida",
+    "type": "Locador",
+    "email": "fernanda.martins@example.com",
+    "phone": "(11) 92983-4943",
+    "interest": {
+      "propertyType": "Terreno",
+      "maxPrice": 1088837
+    },
+    "createdAt": "2026-01-26T17:06:18.843Z"
+  },
+  {
+    "id": "cli-3fp50hhiq",
+    "name": "Mariana Silva",
+    "type": "Locador",
+    "email": "carlos.martins@example.com",
+    "phone": "(11) 97734-3673",
+    "interest": {
+      "propertyType": "Terreno",
+      "maxPrice": 2726908
+    },
+    "createdAt": "2026-03-11T23:41:13.328Z"
+  },
+  {
+    "id": "cli-t1cu2bgxs",
+    "name": "Igor Ribeiro",
+    "type": "Locatário",
+    "email": "daniela.silva@example.com",
+    "phone": "(11) 98501-2797",
+    "interest": {
+      "propertyType": "Cobertura",
+      "maxPrice": 1915257
+    },
+    "createdAt": "2025-10-08T02:11:39.905Z"
+  },
+  {
+    "id": "cli-osw1mjl33",
+    "name": "Igor Oliveira",
+    "type": "Comprador",
+    "email": "carlos.ferreira@example.com",
+    "phone": "(11) 97738-9699",
+    "interest": {
+      "propertyType": "Comercial",
+      "maxPrice": 2420608
+    },
+    "createdAt": "2025-04-05T20:29:59.496Z"
+  },
+  {
+    "id": "cli-7uggh5e60",
+    "name": "Rafael Martins",
+    "type": "Comprador",
+    "email": "igor.silva@example.com",
+    "phone": "(11) 93559-5971",
+    "interest": {
+      "propertyType": "Apartamento",
+      "maxPrice": 1191123
+    },
+    "createdAt": "2025-07-16T17:04:30.650Z"
+  },
+  {
+    "id": "cli-pui5f0n9c",
+    "name": "Ana Alves",
+    "type": "Locatário",
+    "email": "daniela.oliveira@example.com",
+    "phone": "(11) 95192-3027",
+    "interest": {
+      "propertyType": "Casa",
+      "maxPrice": 1341183
+    },
+    "createdAt": "2025-06-30T08:10:12.886Z"
+  },
+  {
+    "id": "cli-oz7uvim3t",
+    "name": "Eduardo Souza",
+    "type": "Vendedor",
+    "email": "mariana.souza@example.com",
+    "phone": "(11) 99365-5288",
+    "interest": {
+      "propertyType": "Comercial",
+      "maxPrice": 957420
+    },
+    "createdAt": "2025-07-09T01:36:56.423Z"
+  },
+  {
+    "id": "cli-rwvpj6rpq",
+    "name": "Daniela Souza",
+    "type": "Vendedor",
+    "email": "sofia.martins@example.com",
+    "phone": "(11) 98266-3570",
+    "interest": {
+      "propertyType": "Cobertura",
+      "maxPrice": 2347725
+    },
+    "createdAt": "2026-03-08T11:19:36.227Z"
+  },
+  {
+    "id": "cli-0pt2h0zro",
+    "name": "Eduardo Rodrigues",
+    "type": "Vendedor",
+    "email": "carlos.souza@example.com",
+    "phone": "(11) 93229-4624",
+    "interest": {
+      "propertyType": "Cobertura",
+      "maxPrice": 2691183
+    },
+    "createdAt": "2025-11-28T15:18:59.804Z"
+  },
+  {
+    "id": "cli-i7fa351ju",
+    "name": "Lucas Souza",
+    "type": "Comprador",
+    "email": "igor.souza@example.com",
+    "phone": "(11) 96092-9147",
+    "interest": {
+      "propertyType": "Terreno",
+      "maxPrice": 761752
+    },
+    "createdAt": "2026-02-10T18:37:14.018Z"
+  },
+  {
+    "id": "cli-2l7j26ams",
+    "name": "Mariana Santos",
+    "type": "Investidor",
+    "email": "lucas.almeida@example.com",
+    "phone": "(11) 93475-8850",
+    "interest": {
+      "propertyType": "Casa",
+      "maxPrice": 2036353
+    },
+    "createdAt": "2025-10-16T06:44:39.027Z"
+  },
+  {
+    "id": "cli-5byhcsh8b",
+    "name": "Daniela Santos",
+    "type": "Locador",
+    "email": "fernanda.lima@example.com",
+    "phone": "(11) 98274-8234",
+    "interest": {
+      "propertyType": "Apartamento",
+      "maxPrice": 1795635
+    },
+    "createdAt": "2025-06-17T19:57:18.036Z"
+  },
+  {
+    "id": "cli-76d0jq5td",
+    "name": "Eduardo Pereira",
+    "type": "Locatário",
+    "email": "fernanda.santos@example.com",
+    "phone": "(11) 95693-5687",
+    "interest": {
+      "propertyType": "Casa",
+      "maxPrice": 898891
+    },
+    "createdAt": "2025-05-07T23:32:51.062Z"
+  },
+  {
+    "id": "cli-i3x17ugv8",
+    "name": "Sofia Rodrigues",
+    "type": "Locatário",
+    "email": "igor.martins@example.com",
+    "phone": "(11) 94182-9712",
+    "interest": {
+      "propertyType": "Cobertura",
+      "maxPrice": 2109928
+    },
+    "createdAt": "2025-07-07T22:50:20.849Z"
+  },
+  {
+    "id": "cli-dt7ma2931",
+    "name": "Fernanda Lima",
+    "type": "Vendedor",
+    "email": "bruno.santos@example.com",
+    "phone": "(11) 92719-2479",
+    "interest": {
+      "propertyType": "Comercial",
+      "maxPrice": 1219267
+    },
+    "createdAt": "2025-07-01T17:02:59.497Z"
+  },
+  {
+    "id": "cli-wlt208jwb",
+    "name": "Eduardo Lima",
+    "type": "Locador",
+    "email": "rafael.costa@example.com",
+    "phone": "(11) 98453-5338",
+    "interest": {
+      "propertyType": "Casa",
+      "maxPrice": 1019740
+    },
+    "createdAt": "2025-06-24T01:20:34.784Z"
+  },
+  {
+    "id": "cli-yr7rmwfm1",
+    "name": "Fernanda Alves",
+    "type": "Locador",
+    "email": "helena.almeida@example.com",
+    "phone": "(11) 95728-8355",
+    "interest": {
+      "propertyType": "Terreno",
+      "maxPrice": 2506136
+    },
+    "createdAt": "2026-01-06T18:47:52.389Z"
+  },
+  {
+    "id": "cli-k4lo24bc9",
+    "name": "Fernanda Almeida",
+    "type": "Locador",
+    "email": "bruno.ribeiro@example.com",
+    "phone": "(11) 97036-4200",
+    "interest": {
+      "propertyType": "Casa",
+      "maxPrice": 2802483
+    },
+    "createdAt": "2025-08-11T15:12:46.452Z"
+  },
+  {
+    "id": "cli-9b5h4zzo7",
+    "name": "Daniela Ribeiro",
+    "type": "Vendedor",
+    "email": "igor.ribeiro@example.com",
+    "phone": "(11) 95090-2289",
+    "interest": {
+      "propertyType": "Terreno",
+      "maxPrice": 2297444
+    },
+    "createdAt": "2025-09-22T05:43:20.502Z"
+  },
+  {
+    "id": "cli-9bgngkguw",
+    "name": "Rafael Rodrigues",
+    "type": "Investidor",
+    "email": "igor.alves@example.com",
+    "phone": "(11) 99320-2212",
+    "interest": {
+      "propertyType": "Terreno",
+      "maxPrice": 563800
+    },
+    "createdAt": "2025-10-04T09:46:25.690Z"
+  },
+  {
+    "id": "cli-mthwywq2p",
+    "name": "Gabriel Martins",
+    "type": "Investidor",
+    "email": "sofia.souza@example.com",
+    "phone": "(11) 94987-5326",
+    "interest": {
+      "propertyType": "Cobertura",
+      "maxPrice": 1802761
+    },
+    "createdAt": "2025-11-27T11:48:28.519Z"
+  },
+  {
+    "id": "cli-6eet6g3u2",
+    "name": "Igor Pereira",
+    "type": "Investidor",
+    "email": "sofia.almeida@example.com",
+    "phone": "(11) 97832-2293",
+    "interest": {
+      "propertyType": "Cobertura",
+      "maxPrice": 1430837
+    },
+    "createdAt": "2026-03-04T09:47:50.757Z"
+  },
+  {
+    "id": "cli-6lpf5pmj2",
+    "name": "Fernanda Rodrigues",
+    "type": "Locatário",
+    "email": "mariana.costa@example.com",
+    "phone": "(11) 95154-3035",
+    "interest": {
+      "propertyType": "Cobertura",
+      "maxPrice": 2642703
+    },
+    "createdAt": "2025-10-05T21:19:20.161Z"
+  },
+  {
+    "id": "cli-7c6ihdyo6",
+    "name": "Sofia Ribeiro",
+    "type": "Locatário",
+    "email": "lucas.almeida@example.com",
+    "phone": "(11) 95028-5223",
+    "interest": {
+      "propertyType": "Apartamento",
+      "maxPrice": 1475973
+    },
+    "createdAt": "2025-06-10T08:02:29.297Z"
+  },
+  {
+    "id": "cli-tfqgjcua3",
+    "name": "Lucas Oliveira",
+    "type": "Investidor",
+    "email": "mariana.rodrigues@example.com",
+    "phone": "(11) 96124-1276",
+    "interest": {
+      "propertyType": "Apartamento",
+      "maxPrice": 1727411
+    },
+    "createdAt": "2025-08-22T13:18:03.492Z"
+  },
+  {
+    "id": "cli-bvjkhyx15",
+    "name": "Bruno Martins",
+    "type": "Vendedor",
+    "email": "lucas.silva@example.com",
+    "phone": "(11) 91636-1780",
+    "interest": {
+      "propertyType": "Cobertura",
+      "maxPrice": 573639
+    },
+    "createdAt": "2025-04-29T01:28:53.028Z"
+  },
+  {
+    "id": "cli-gphrj8bh1",
+    "name": "Eduardo Pereira",
+    "type": "Investidor",
+    "email": "igor.santos@example.com",
+    "phone": "(11) 97108-9033",
+    "interest": {
+      "propertyType": "Cobertura",
+      "maxPrice": 856678
+    },
+    "createdAt": "2025-04-26T05:30:23.999Z"
+  },
+  {
+    "id": "cli-b554vft6d",
+    "name": "Rafael Souza",
+    "type": "Locatário",
+    "email": "fernanda.silva@example.com",
+    "phone": "(11) 99220-2440",
+    "interest": {
+      "propertyType": "Comercial",
+      "maxPrice": 1396327
+    },
+    "createdAt": "2026-03-09T10:05:23.020Z"
+  },
+  {
+    "id": "cli-zt6hk4o5e",
+    "name": "Daniela Lima",
+    "type": "Locador",
+    "email": "julia.almeida@example.com",
+    "phone": "(11) 93339-2692",
+    "interest": {
+      "propertyType": "Comercial",
+      "maxPrice": 1943049
+    },
+    "createdAt": "2025-06-07T17:14:13.743Z"
+  },
+  {
+    "id": "cli-08op5vevi",
+    "name": "Sofia Silva",
+    "type": "Comprador",
+    "email": "rafael.gomes@example.com",
+    "phone": "(11) 94985-6016",
+    "interest": {
+      "propertyType": "Terreno",
+      "maxPrice": 2645998
+    },
+    "createdAt": "2025-10-19T08:51:59.575Z"
+  },
+  {
+    "id": "cli-oi8chb55t",
+    "name": "Ana Pereira",
+    "type": "Locatário",
+    "email": "eduardo.rodrigues@example.com",
+    "phone": "(11) 98848-3710",
+    "interest": {
+      "propertyType": "Terreno",
+      "maxPrice": 1756844
+    },
+    "createdAt": "2026-02-11T17:20:28.804Z"
+  },
+  {
+    "id": "cli-uk667atzb",
+    "name": "Igor Martins",
+    "type": "Comprador",
+    "email": "eduardo.ribeiro@example.com",
+    "phone": "(11) 94791-5867",
+    "interest": {
+      "propertyType": "Cobertura",
+      "maxPrice": 2570696
+    },
+    "createdAt": "2025-04-17T10:02:11.853Z"
+  },
+  {
+    "id": "cli-qo7oo8vwe",
+    "name": "Carlos Gomes",
+    "type": "Comprador",
+    "email": "gabriel.gomes@example.com",
+    "phone": "(11) 95284-4252",
+    "interest": {
+      "propertyType": "Terreno",
+      "maxPrice": 2284844
+    },
+    "createdAt": "2025-05-07T13:07:26.282Z"
+  },
+  {
+    "id": "cli-vq3bxqa38",
+    "name": "Bruno Lima",
+    "type": "Locatário",
+    "email": "daniela.oliveira@example.com",
+    "phone": "(11) 99970-2927",
+    "interest": {
+      "propertyType": "Apartamento",
+      "maxPrice": 1501917
+    },
+    "createdAt": "2026-01-18T09:48:09.813Z"
+  },
+  {
+    "id": "cli-oziefubrn",
+    "name": "Gabriel Lima",
+    "type": "Comprador",
+    "email": "fernanda.rodrigues@example.com",
+    "phone": "(11) 99013-4699",
+    "interest": {
+      "propertyType": "Casa",
+      "maxPrice": 915653
+    },
+    "createdAt": "2025-11-11T13:29:38.504Z"
+  },
+  {
+    "id": "cli-icszpfo02",
+    "name": "Fernanda Santos",
+    "type": "Vendedor",
+    "email": "pedro.almeida@example.com",
+    "phone": "(11) 97622-4876",
+    "interest": {
+      "propertyType": "Cobertura",
+      "maxPrice": 1909596
+    },
+    "createdAt": "2025-08-26T02:02:23.390Z"
+  },
+  {
+    "id": "cli-p6fiw2ukw",
+    "name": "Lucas Silva",
+    "type": "Comprador",
+    "email": "pedro.costa@example.com",
+    "phone": "(11) 95483-8166",
+    "interest": {
+      "propertyType": "Apartamento",
+      "maxPrice": 1459959
+    },
+    "createdAt": "2025-12-27T01:03:58.231Z"
+  },
+  {
+    "id": "cli-10zbxg4uo",
+    "name": "Ana Souza",
+    "type": "Locatário",
+    "email": "daniela.oliveira@example.com",
+    "phone": "(11) 98342-3196",
+    "interest": {
+      "propertyType": "Terreno",
+      "maxPrice": 2793483
+    },
+    "createdAt": "2025-05-14T13:55:34.369Z"
+  },
+  {
+    "id": "cli-8cf24yh7i",
+    "name": "Gabriel Oliveira",
+    "type": "Locador",
+    "email": "carlos.almeida@example.com",
+    "phone": "(11) 93452-4410",
+    "interest": {
+      "propertyType": "Casa",
+      "maxPrice": 1442527
+    },
+    "createdAt": "2025-04-15T03:20:12.319Z"
+  },
+  {
+    "id": "cli-nu36pyp9e",
+    "name": "Gabriel Alves",
+    "type": "Investidor",
+    "email": "gabriel.alves@example.com",
+    "phone": "(11) 95263-3068",
+    "interest": {
+      "propertyType": "Apartamento",
+      "maxPrice": 947525
+    },
+    "createdAt": "2025-09-02T01:39:31.988Z"
+  },
+  {
+    "id": "cli-jrx1v505x",
+    "name": "Fernanda Rodrigues",
+    "type": "Vendedor",
+    "email": "gabriel.lima@example.com",
+    "phone": "(11) 96071-5027",
+    "interest": {
+      "propertyType": "Cobertura",
+      "maxPrice": 625208
+    },
+    "createdAt": "2025-07-08T19:15:51.916Z"
+  },
+  {
+    "id": "cli-y3nay5i84",
+    "name": "Fernanda Santos",
+    "type": "Comprador",
+    "email": "carlos.costa@example.com",
+    "phone": "(11) 97669-4913",
+    "interest": {
+      "propertyType": "Terreno",
+      "maxPrice": 1514281
+    },
+    "createdAt": "2025-06-19T07:56:18.737Z"
+  },
+  {
+    "id": "cli-5otp6q257",
+    "name": "Pedro Ferreira",
+    "type": "Locatário",
+    "email": "igor.oliveira@example.com",
+    "phone": "(11) 98985-9983",
+    "interest": {
+      "propertyType": "Cobertura",
+      "maxPrice": 2559153
+    },
+    "createdAt": "2025-10-14T17:34:26.155Z"
+  },
+  {
+    "id": "cli-ltde89kxb",
+    "name": "Julia Gomes",
+    "type": "Locador",
+    "email": "igor.lima@example.com",
+    "phone": "(11) 99008-3345",
+    "interest": {
+      "propertyType": "Comercial",
+      "maxPrice": 2303018
+    },
+    "createdAt": "2025-11-06T19:40:21.136Z"
+  },
+  {
+    "id": "cli-2z40k16vo",
+    "name": "Igor Oliveira",
+    "type": "Investidor",
+    "email": "lucas.alves@example.com",
+    "phone": "(11) 93590-4038",
+    "interest": {
+      "propertyType": "Comercial",
+      "maxPrice": 683399
+    },
+    "createdAt": "2025-09-22T19:56:17.826Z"
+  },
+  {
+    "id": "cli-kwab8ezi3",
+    "name": "Lucas Almeida",
+    "type": "Comprador",
+    "email": "sofia.martins@example.com",
+    "phone": "(11) 99885-5083",
+    "interest": {
+      "propertyType": "Cobertura",
+      "maxPrice": 1103703
+    },
+    "createdAt": "2025-07-06T01:47:07.552Z"
+  },
+  {
+    "id": "cli-gqebxpzmn",
+    "name": "Rafael Santos",
+    "type": "Vendedor",
+    "email": "rafael.lima@example.com",
+    "phone": "(11) 93897-8481",
+    "interest": {
+      "propertyType": "Cobertura",
+      "maxPrice": 1102914
+    },
+    "createdAt": "2025-05-02T04:24:16.549Z"
+  },
+  {
+    "id": "cli-i2a60be99",
+    "name": "Ana Santos",
+    "type": "Investidor",
+    "email": "daniela.costa@example.com",
+    "phone": "(11) 97953-6141",
+    "interest": {
+      "propertyType": "Terreno",
+      "maxPrice": 1624733
+    },
+    "createdAt": "2025-04-10T06:09:54.998Z"
+  },
+  {
+    "id": "cli-exg16jamm",
+    "name": "Julia Pereira",
+    "type": "Investidor",
+    "email": "gabriel.gomes@example.com",
+    "phone": "(11) 98600-4310",
+    "interest": {
+      "propertyType": "Casa",
+      "maxPrice": 670082
+    },
+    "createdAt": "2026-02-05T22:56:19.868Z"
+  },
+  {
+    "id": "cli-yuciwtce1",
+    "name": "Eduardo Carvalho",
+    "type": "Investidor",
+    "email": "pedro.almeida@example.com",
+    "phone": "(11) 92583-6509",
+    "interest": {
+      "propertyType": "Cobertura",
+      "maxPrice": 2448793
+    },
+    "createdAt": "2026-01-23T09:42:32.519Z"
+  },
+  {
+    "id": "cli-jj6bc2a3v",
+    "name": "Eduardo Ribeiro",
+    "type": "Vendedor",
+    "email": "rafael.souza@example.com",
+    "phone": "(11) 96712-2453",
+    "interest": {
+      "propertyType": "Terreno",
+      "maxPrice": 2894579
+    },
+    "createdAt": "2025-11-13T17:22:24.825Z"
+  },
+  {
+    "id": "cli-kyrzq1jxv",
+    "name": "Carlos Costa",
+    "type": "Locatário",
+    "email": "eduardo.carvalho@example.com",
+    "phone": "(11) 91294-7020",
+    "interest": {
+      "propertyType": "Apartamento",
+      "maxPrice": 1020921
+    },
+    "createdAt": "2025-10-02T03:13:04.230Z"
+  },
+  {
+    "id": "cli-leejagaot",
+    "name": "Gabriel Carvalho",
+    "type": "Investidor",
+    "email": "igor.martins@example.com",
+    "phone": "(11) 95002-9303",
+    "interest": {
+      "propertyType": "Cobertura",
+      "maxPrice": 1723487
+    },
+    "createdAt": "2026-01-08T19:43:28.221Z"
+  },
+  {
+    "id": "cli-k6qznuot3",
+    "name": "Helena Oliveira",
+    "type": "Investidor",
+    "email": "pedro.pereira@example.com",
+    "phone": "(11) 95356-7706",
+    "interest": {
+      "propertyType": "Casa",
+      "maxPrice": 1820655
+    },
+    "createdAt": "2025-05-29T17:14:46.037Z"
+  },
+  {
+    "id": "cli-ayffjwvqv",
+    "name": "Mariana Costa",
+    "type": "Locador",
+    "email": "daniela.silva@example.com",
+    "phone": "(11) 93642-4971",
+    "interest": {
+      "propertyType": "Apartamento",
+      "maxPrice": 858873
+    },
+    "createdAt": "2026-02-22T15:30:53.679Z"
+  },
+  {
+    "id": "cli-291l3dhtp",
+    "name": "Mariana Rodrigues",
+    "type": "Investidor",
+    "email": "gabriel.rodrigues@example.com",
+    "phone": "(11) 94736-4533",
+    "interest": {
+      "propertyType": "Comercial",
+      "maxPrice": 2922728
+    },
+    "createdAt": "2025-10-19T09:15:09.849Z"
+  },
+  {
+    "id": "cli-xrqey5l2z",
+    "name": "Pedro Gomes",
+    "type": "Investidor",
+    "email": "carlos.oliveira@example.com",
+    "phone": "(11) 95282-9539",
+    "interest": {
+      "propertyType": "Cobertura",
+      "maxPrice": 1440982
+    },
+    "createdAt": "2025-08-26T11:16:20.524Z"
+  },
+  {
+    "id": "cli-puiomuttp",
+    "name": "Sofia Ferreira",
+    "type": "Comprador",
+    "email": "mariana.pereira@example.com",
+    "phone": "(11) 92468-4952",
+    "interest": {
+      "propertyType": "Terreno",
+      "maxPrice": 1867593
+    },
+    "createdAt": "2026-01-06T09:36:40.223Z"
+  },
+  {
+    "id": "cli-21fphcr8e",
+    "name": "Ana Alves",
+    "type": "Comprador",
+    "email": "bruno.silva@example.com",
+    "phone": "(11) 91177-8968",
+    "interest": {
+      "propertyType": "Terreno",
+      "maxPrice": 1639321
+    },
+    "createdAt": "2025-04-06T18:44:24.915Z"
+  },
+  {
+    "id": "cli-i3jdzwouj",
+    "name": "Daniela Carvalho",
+    "type": "Comprador",
+    "email": "ana.lima@example.com",
+    "phone": "(11) 93046-9417",
+    "interest": {
+      "propertyType": "Casa",
+      "maxPrice": 2926031
+    },
+    "createdAt": "2026-03-15T03:12:21.155Z"
+  },
+  {
+    "id": "cli-otpu8atsy",
+    "name": "Lucas Pereira",
+    "type": "Locador",
+    "email": "mariana.santos@example.com",
+    "phone": "(11) 91637-2534",
+    "interest": {
+      "propertyType": "Casa",
+      "maxPrice": 2895589
+    },
+    "createdAt": "2026-01-25T04:42:08.712Z"
+  },
+  {
+    "id": "cli-b9ysb9be4",
+    "name": "Pedro Santos",
+    "type": "Locador",
+    "email": "mariana.gomes@example.com",
+    "phone": "(11) 92300-6621",
+    "interest": {
+      "propertyType": "Cobertura",
+      "maxPrice": 2837107
+    },
+    "createdAt": "2026-02-17T17:32:45.327Z"
+  },
+  {
+    "id": "cli-0bpyxfcu0",
+    "name": "Bruno Santos",
+    "type": "Locador",
+    "email": "igor.silva@example.com",
+    "phone": "(11) 98043-5666",
+    "interest": {
+      "propertyType": "Apartamento",
+      "maxPrice": 1502098
+    },
+    "createdAt": "2025-12-06T07:34:10.817Z"
+  },
+  {
+    "id": "cli-idp45n6w2",
+    "name": "Mariana Gomes",
+    "type": "Vendedor",
+    "email": "carlos.santos@example.com",
+    "phone": "(11) 91072-2494",
+    "interest": {
+      "propertyType": "Apartamento",
+      "maxPrice": 878020
+    },
+    "createdAt": "2025-05-25T11:35:46.189Z"
+  },
+  {
+    "id": "cli-8rch3v7nm",
+    "name": "Pedro Pereira",
+    "type": "Comprador",
+    "email": "helena.rodrigues@example.com",
+    "phone": "(11) 94154-1739",
+    "interest": {
+      "propertyType": "Cobertura",
+      "maxPrice": 2201527
+    },
+    "createdAt": "2026-01-29T13:15:41.568Z"
+  },
+  {
+    "id": "cli-lg8clxws0",
+    "name": "Ana Ribeiro",
+    "type": "Locatário",
+    "email": "sofia.costa@example.com",
+    "phone": "(11) 96585-9570",
+    "interest": {
+      "propertyType": "Cobertura",
+      "maxPrice": 1368487
+    },
+    "createdAt": "2025-12-19T18:07:00.820Z"
+  },
+  {
+    "id": "cli-mb18m1zqp",
+    "name": "Helena Rodrigues",
+    "type": "Locador",
+    "email": "bruno.silva@example.com",
+    "phone": "(11) 96630-3583",
+    "interest": {
+      "propertyType": "Terreno",
+      "maxPrice": 1685849
+    },
+    "createdAt": "2025-08-26T03:37:32.233Z"
+  },
+  {
+    "id": "cli-xh1e9b7ek",
+    "name": "Eduardo Ferreira",
+    "type": "Comprador",
+    "email": "helena.lima@example.com",
+    "phone": "(11) 93175-8257",
+    "interest": {
+      "propertyType": "Terreno",
+      "maxPrice": 2623708
+    },
+    "createdAt": "2025-09-21T02:28:03.451Z"
+  },
+  {
+    "id": "cli-u77ihqys4",
+    "name": "Julia Souza",
+    "type": "Investidor",
+    "email": "pedro.costa@example.com",
+    "phone": "(11) 93172-2981",
+    "interest": {
+      "propertyType": "Apartamento",
+      "maxPrice": 1643895
+    },
+    "createdAt": "2025-12-25T23:07:26.928Z"
+  },
+  {
+    "id": "cli-qx7qilc4s",
+    "name": "Pedro Santos",
+    "type": "Investidor",
+    "email": "fernanda.alves@example.com",
+    "phone": "(11) 93221-4013",
+    "interest": {
+      "propertyType": "Casa",
+      "maxPrice": 2221918
+    },
+    "createdAt": "2025-09-19T07:02:42.533Z"
+  },
+  {
+    "id": "cli-od1jvk8u0",
+    "name": "Ana Costa",
+    "type": "Comprador",
+    "email": "helena.costa@example.com",
+    "phone": "(11) 91761-2682",
+    "interest": {
+      "propertyType": "Apartamento",
+      "maxPrice": 1650903
+    },
+    "createdAt": "2025-05-21T04:07:54.749Z"
+  },
+  {
+    "id": "cli-ni2ebj8md",
+    "name": "Ana Silva",
+    "type": "Vendedor",
+    "email": "lucas.martins@example.com",
+    "phone": "(11) 96770-6882",
+    "interest": {
+      "propertyType": "Comercial",
+      "maxPrice": 1176126
+    },
+    "createdAt": "2025-11-22T01:47:32.579Z"
+  },
+  {
+    "id": "cli-qhjgr1y79",
+    "name": "Rafael Rodrigues",
+    "type": "Investidor",
+    "email": "rafael.carvalho@example.com",
+    "phone": "(11) 91685-2090",
+    "interest": {
+      "propertyType": "Cobertura",
+      "maxPrice": 1029545
+    },
+    "createdAt": "2025-07-23T18:51:28.618Z"
+  },
+  {
+    "id": "cli-vxv72y24g",
+    "name": "Carlos Santos",
+    "type": "Investidor",
+    "email": "helena.oliveira@example.com",
+    "phone": "(11) 95660-9107",
+    "interest": {
+      "propertyType": "Terreno",
+      "maxPrice": 1176613
+    },
+    "createdAt": "2025-09-14T16:40:39.685Z"
+  },
+  {
+    "id": "cli-oux10pf1n",
+    "name": "Ana Pereira",
+    "type": "Comprador",
+    "email": "eduardo.almeida@example.com",
+    "phone": "(11) 91613-7791",
+    "interest": {
+      "propertyType": "Apartamento",
+      "maxPrice": 2650807
+    },
+    "createdAt": "2025-04-13T04:50:29.684Z"
+  },
+  {
+    "id": "cli-qtjra36ra",
+    "name": "Bruno Ribeiro",
+    "type": "Vendedor",
+    "email": "carlos.almeida@example.com",
+    "phone": "(11) 96097-7737",
+    "interest": {
+      "propertyType": "Cobertura",
+      "maxPrice": 1040786
+    },
+    "createdAt": "2026-01-12T20:52:43.696Z"
+  },
+  {
+    "id": "cli-04tz31krx",
+    "name": "Ana Costa",
+    "type": "Locador",
+    "email": "bruno.pereira@example.com",
+    "phone": "(11) 96195-3071",
+    "interest": {
+      "propertyType": "Terreno",
+      "maxPrice": 2045116
+    },
+    "createdAt": "2026-01-22T18:32:31.212Z"
+  },
+  {
+    "id": "cli-2pt8ibjz8",
+    "name": "Mariana Rodrigues",
+    "type": "Locatário",
+    "email": "bruno.ribeiro@example.com",
+    "phone": "(11) 93967-6063",
+    "interest": {
+      "propertyType": "Comercial",
+      "maxPrice": 2412542
+    },
+    "createdAt": "2025-09-30T17:05:43.829Z"
+  },
+  {
+    "id": "cli-bkljc12oc",
+    "name": "Lucas Souza",
+    "type": "Locatário",
+    "email": "gabriel.gomes@example.com",
+    "phone": "(11) 92124-5888",
+    "interest": {
+      "propertyType": "Cobertura",
+      "maxPrice": 2981201
+    },
+    "createdAt": "2026-01-02T14:44:32.526Z"
+  },
+  {
+    "id": "cli-np2u1nzsj",
+    "name": "Lucas Gomes",
+    "type": "Locador",
+    "email": "eduardo.ferreira@example.com",
+    "phone": "(11) 97912-1601",
+    "interest": {
+      "propertyType": "Terreno",
+      "maxPrice": 2897416
+    },
+    "createdAt": "2025-11-15T04:52:36.794Z"
+  },
+  {
+    "id": "cli-qga5eh9wv",
+    "name": "Ana Souza",
+    "type": "Locatário",
+    "email": "daniela.carvalho@example.com",
+    "phone": "(11) 91864-7345",
+    "interest": {
+      "propertyType": "Casa",
+      "maxPrice": 1224006
+    },
+    "createdAt": "2025-11-20T02:15:08.781Z"
+  },
+  {
+    "id": "cli-bxof4t4pk",
+    "name": "Pedro Santos",
+    "type": "Locador",
+    "email": "lucas.rodrigues@example.com",
+    "phone": "(11) 96849-1874",
+    "interest": {
+      "propertyType": "Comercial",
+      "maxPrice": 2757101
+    },
+    "createdAt": "2025-08-24T15:21:52.084Z"
+  },
+  {
+    "id": "cli-4p4cocphk",
+    "name": "Lucas Gomes",
+    "type": "Locador",
+    "email": "fernanda.carvalho@example.com",
+    "phone": "(11) 93778-6915",
+    "interest": {
+      "propertyType": "Apartamento",
+      "maxPrice": 2028045
+    },
+    "createdAt": "2025-11-01T07:41:07.273Z"
+  },
+  {
+    "id": "cli-hfdiyibyt",
+    "name": "Lucas Silva",
+    "type": "Comprador",
+    "email": "lucas.oliveira@example.com",
+    "phone": "(11) 93363-2411",
+    "interest": {
+      "propertyType": "Comercial",
+      "maxPrice": 682201
+    },
+    "createdAt": "2026-03-10T10:42:08.746Z"
+  },
+  {
+    "id": "cli-v1g5k9em4",
+    "name": "Ana Almeida",
+    "type": "Vendedor",
+    "email": "pedro.santos@example.com",
+    "phone": "(11) 93061-5777",
+    "interest": {
+      "propertyType": "Terreno",
+      "maxPrice": 2598302
+    },
+    "createdAt": "2025-10-24T07:49:47.379Z"
+  },
+  {
+    "id": "cli-jark04e8r",
+    "name": "Bruno Oliveira",
+    "type": "Comprador",
+    "email": "mariana.costa@example.com",
+    "phone": "(11) 92740-1069",
+    "interest": {
+      "propertyType": "Apartamento",
+      "maxPrice": 2664497
+    },
+    "createdAt": "2026-03-08T05:25:35.474Z"
+  },
+  {
+    "id": "cli-awa54li6e",
+    "name": "Julia Rodrigues",
+    "type": "Locatário",
+    "email": "gabriel.ferreira@example.com",
+    "phone": "(11) 99645-6154",
+    "interest": {
+      "propertyType": "Comercial",
+      "maxPrice": 1979328
+    },
+    "createdAt": "2025-06-18T03:35:30.935Z"
+  },
+  {
+    "id": "cli-2uf4k9utu",
+    "name": "Julia Ribeiro",
+    "type": "Locatário",
+    "email": "eduardo.alves@example.com",
+    "phone": "(11) 96421-6495",
+    "interest": {
+      "propertyType": "Apartamento",
+      "maxPrice": 1386832
+    },
+    "createdAt": "2026-01-13T13:05:26.122Z"
+  },
+  {
+    "id": "cli-ma8z94m6e",
+    "name": "Ana Pereira",
+    "type": "Locatário",
+    "email": "daniela.ribeiro@example.com",
+    "phone": "(11) 92392-1704",
+    "interest": {
+      "propertyType": "Apartamento",
+      "maxPrice": 958937
+    },
+    "createdAt": "2026-03-13T22:53:31.398Z"
+  },
+  {
+    "id": "cli-04o59gwb2",
+    "name": "Mariana Costa",
+    "type": "Locador",
+    "email": "mariana.santos@example.com",
+    "phone": "(11) 92894-3830",
+    "interest": {
+      "propertyType": "Apartamento",
+      "maxPrice": 2700094
+    },
+    "createdAt": "2025-07-17T14:33:38.167Z"
+  },
+  {
+    "id": "cli-g3u8m1tou",
+    "name": "Fernanda Souza",
+    "type": "Locatário",
+    "email": "ana.gomes@example.com",
+    "phone": "(11) 96396-3029",
+    "interest": {
+      "propertyType": "Apartamento",
+      "maxPrice": 703517
+    },
+    "createdAt": "2025-12-25T06:18:18.645Z"
+  },
+  {
+    "id": "cli-p2fhmojcw",
+    "name": "Julia Almeida",
+    "type": "Investidor",
+    "email": "lucas.gomes@example.com",
+    "phone": "(11) 92088-8950",
+    "interest": {
+      "propertyType": "Terreno",
+      "maxPrice": 1383945
+    },
+    "createdAt": "2026-03-15T15:05:08.917Z"
+  },
+  {
+    "id": "cli-ffp6x95ft",
+    "name": "Julia Carvalho",
+    "type": "Comprador",
+    "email": "pedro.santos@example.com",
+    "phone": "(11) 92448-9471",
+    "interest": {
+      "propertyType": "Terreno",
+      "maxPrice": 1258913
+    },
+    "createdAt": "2025-06-30T05:53:40.186Z"
+  },
+  {
+    "id": "cli-v8oklwwrn",
+    "name": "Igor Lima",
+    "type": "Locador",
+    "email": "sofia.oliveira@example.com",
+    "phone": "(11) 95708-3252",
+    "interest": {
+      "propertyType": "Cobertura",
+      "maxPrice": 1587509
+    },
+    "createdAt": "2025-05-23T07:49:00.821Z"
+  },
+  {
+    "id": "cli-dsmbulpo7",
+    "name": "Ana Rodrigues",
+    "type": "Vendedor",
+    "email": "lucas.carvalho@example.com",
+    "phone": "(11) 91192-9630",
+    "interest": {
+      "propertyType": "Terreno",
+      "maxPrice": 1962424
+    },
+    "createdAt": "2025-04-19T00:47:23.356Z"
+  },
+  {
+    "id": "cli-9sgsnlted",
+    "name": "Carlos Carvalho",
+    "type": "Vendedor",
+    "email": "igor.almeida@example.com",
+    "phone": "(11) 95010-6499",
+    "interest": {
+      "propertyType": "Casa",
+      "maxPrice": 1968668
+    },
+    "createdAt": "2025-12-16T06:32:41.396Z"
+  },
+  {
+    "id": "cli-51667q10p",
+    "name": "Julia Ferreira",
+    "type": "Investidor",
+    "email": "igor.almeida@example.com",
+    "phone": "(11) 96846-2480",
+    "interest": {
+      "propertyType": "Casa",
+      "maxPrice": 849281
+    },
+    "createdAt": "2025-12-06T18:47:44.379Z"
+  },
+  {
+    "id": "cli-mv9eqmlka",
+    "name": "Sofia Alves",
+    "type": "Vendedor",
+    "email": "bruno.martins@example.com",
+    "phone": "(11) 96078-7681",
+    "interest": {
+      "propertyType": "Casa",
+      "maxPrice": 653868
+    },
+    "createdAt": "2025-07-01T02:52:39.253Z"
+  },
+  {
+    "id": "cli-krnnwm3ba",
+    "name": "Lucas Pereira",
+    "type": "Vendedor",
+    "email": "mariana.martins@example.com",
+    "phone": "(11) 99117-1867",
+    "interest": {
+      "propertyType": "Terreno",
+      "maxPrice": 1398106
+    },
+    "createdAt": "2025-04-19T04:41:36.918Z"
+  },
+  {
+    "id": "cli-rw5i3bg3z",
+    "name": "Mariana Almeida",
+    "type": "Comprador",
+    "email": "julia.souza@example.com",
+    "phone": "(11) 95032-8093",
+    "interest": {
+      "propertyType": "Apartamento",
+      "maxPrice": 2855595
+    },
+    "createdAt": "2025-08-26T23:43:47.449Z"
+  },
+  {
+    "id": "cli-l6txu1iul",
+    "name": "Carlos Gomes",
+    "type": "Investidor",
+    "email": "daniela.rodrigues@example.com",
+    "phone": "(11) 94587-2055",
+    "interest": {
+      "propertyType": "Apartamento",
+      "maxPrice": 2699551
+    },
+    "createdAt": "2025-12-30T04:08:18.254Z"
+  },
+  {
+    "id": "cli-1epdot38z",
+    "name": "Daniela Carvalho",
+    "type": "Locador",
+    "email": "eduardo.lima@example.com",
+    "phone": "(11) 91949-6802",
+    "interest": {
+      "propertyType": "Comercial",
+      "maxPrice": 1027426
+    },
+    "createdAt": "2025-11-23T12:06:43.953Z"
+  },
+  {
+    "id": "cli-ii2pedrgu",
+    "name": "Sofia Rodrigues",
+    "type": "Comprador",
+    "email": "rafael.santos@example.com",
+    "phone": "(11) 99430-5504",
+    "interest": {
+      "propertyType": "Apartamento",
+      "maxPrice": 2893964
+    },
+    "createdAt": "2025-03-25T02:35:52.534Z"
+  },
+  {
+    "id": "cli-y8vzy2s7x",
+    "name": "Bruno Almeida",
+    "type": "Comprador",
+    "email": "mariana.ribeiro@example.com",
+    "phone": "(11) 91323-8711",
+    "interest": {
+      "propertyType": "Cobertura",
+      "maxPrice": 544946
+    },
+    "createdAt": "2025-07-23T22:56:44.039Z"
+  },
+  {
+    "id": "cli-ld87fyi9g",
+    "name": "Sofia Santos",
+    "type": "Locador",
+    "email": "carlos.gomes@example.com",
+    "phone": "(11) 96594-8738",
+    "interest": {
+      "propertyType": "Cobertura",
+      "maxPrice": 799077
+    },
+    "createdAt": "2026-02-13T11:11:52.516Z"
+  },
+  {
+    "id": "cli-sfleyx8ny",
+    "name": "Lucas Lima",
+    "type": "Locador",
+    "email": "ana.santos@example.com",
+    "phone": "(11) 97159-2519",
+    "interest": {
+      "propertyType": "Apartamento",
+      "maxPrice": 1086960
+    },
+    "createdAt": "2025-04-21T19:43:19.682Z"
+  },
+  {
+    "id": "cli-44qpksf54",
+    "name": "Julia Ribeiro",
+    "type": "Vendedor",
+    "email": "eduardo.silva@example.com",
+    "phone": "(11) 95441-1390",
+    "interest": {
+      "propertyType": "Comercial",
+      "maxPrice": 1010832
+    },
+    "createdAt": "2025-05-11T00:55:22.432Z"
+  },
+  {
+    "id": "cli-c1wqej5uo",
+    "name": "Julia Pereira",
+    "type": "Locador",
+    "email": "lucas.costa@example.com",
+    "phone": "(11) 91000-2953",
+    "interest": {
+      "propertyType": "Apartamento",
+      "maxPrice": 2090222
+    },
+    "createdAt": "2025-05-28T07:47:04.418Z"
+  },
+  {
+    "id": "cli-3fgx6554r",
+    "name": "Rafael Ribeiro",
+    "type": "Vendedor",
+    "email": "sofia.almeida@example.com",
+    "phone": "(11) 97761-2599",
+    "interest": {
+      "propertyType": "Casa",
+      "maxPrice": 646792
+    },
+    "createdAt": "2026-02-13T01:22:29.286Z"
+  },
+  {
+    "id": "cli-rqr4a1vll",
+    "name": "Daniela Souza",
+    "type": "Locador",
+    "email": "daniela.ferreira@example.com",
+    "phone": "(11) 93102-9951",
+    "interest": {
+      "propertyType": "Apartamento",
+      "maxPrice": 2411442
+    },
+    "createdAt": "2025-12-15T09:15:38.188Z"
+  },
+  {
+    "id": "cli-p5a0ibfo4",
+    "name": "Eduardo Oliveira",
+    "type": "Comprador",
+    "email": "gabriel.martins@example.com",
+    "phone": "(11) 94053-2765",
+    "interest": {
+      "propertyType": "Cobertura",
+      "maxPrice": 2330165
+    },
+    "createdAt": "2025-08-21T03:33:47.497Z"
+  },
+  {
+    "id": "cli-e8u9w7hgn",
+    "name": "Igor Ferreira",
+    "type": "Comprador",
+    "email": "fernanda.rodrigues@example.com",
+    "phone": "(11) 93978-1396",
+    "interest": {
+      "propertyType": "Terreno",
+      "maxPrice": 2575865
+    },
+    "createdAt": "2025-09-13T04:45:18.985Z"
+  },
+  {
+    "id": "cli-kklyq42nl",
+    "name": "Helena Ribeiro",
+    "type": "Locador",
+    "email": "julia.silva@example.com",
+    "phone": "(11) 99068-8886",
+    "interest": {
+      "propertyType": "Terreno",
+      "maxPrice": 766210
+    },
+    "createdAt": "2026-03-06T10:02:01.774Z"
+  },
+  {
+    "id": "cli-ujd9xq1p9",
+    "name": "Gabriel Alves",
+    "type": "Locatário",
+    "email": "fernanda.almeida@example.com",
+    "phone": "(11) 98560-9718",
+    "interest": {
+      "propertyType": "Terreno",
+      "maxPrice": 2314929
+    },
+    "createdAt": "2025-08-13T10:03:36.083Z"
+  },
+  {
+    "id": "cli-0yp2qxd08",
+    "name": "Lucas Ferreira",
+    "type": "Investidor",
+    "email": "bruno.almeida@example.com",
+    "phone": "(11) 96114-7621",
+    "interest": {
+      "propertyType": "Terreno",
+      "maxPrice": 2477238
+    },
+    "createdAt": "2025-08-29T05:33:49.715Z"
+  },
+  {
+    "id": "cli-18qd1qndz",
+    "name": "Daniela Alves",
+    "type": "Locador",
+    "email": "bruno.carvalho@example.com",
+    "phone": "(11) 99977-7367",
+    "interest": {
+      "propertyType": "Apartamento",
+      "maxPrice": 1340356
+    },
+    "createdAt": "2025-10-05T13:45:44.938Z"
+  },
+  {
+    "id": "cli-uivpgnby1",
+    "name": "Mariana Santos",
+    "type": "Investidor",
+    "email": "daniela.pereira@example.com",
+    "phone": "(11) 92926-5590",
+    "interest": {
+      "propertyType": "Comercial",
+      "maxPrice": 1114883
+    },
+    "createdAt": "2026-03-09T15:16:40.979Z"
+  },
+  {
+    "id": "cli-slx3up6rk",
+    "name": "Helena Pereira",
+    "type": "Vendedor",
+    "email": "igor.almeida@example.com",
+    "phone": "(11) 99220-4646",
+    "interest": {
+      "propertyType": "Apartamento",
+      "maxPrice": 1397954
+    },
+    "createdAt": "2025-09-30T00:04:06.229Z"
+  },
+  {
+    "id": "cli-rdx8xsk5s",
+    "name": "Gabriel Costa",
+    "type": "Comprador",
+    "email": "igor.santos@example.com",
+    "phone": "(11) 99680-9779",
+    "interest": {
+      "propertyType": "Cobertura",
+      "maxPrice": 2911858
+    },
+    "createdAt": "2026-03-02T02:27:58.509Z"
+  },
+  {
+    "id": "cli-hsw6bcqzr",
+    "name": "Helena Alves",
+    "type": "Comprador",
+    "email": "pedro.pereira@example.com",
+    "phone": "(11) 94766-5807",
+    "interest": {
+      "propertyType": "Comercial",
+      "maxPrice": 1553767
+    },
+    "createdAt": "2025-05-15T07:21:02.603Z"
+  },
+  {
+    "id": "cli-qandckwtn",
+    "name": "Fernanda Pereira",
+    "type": "Vendedor",
+    "email": "eduardo.souza@example.com",
+    "phone": "(11) 99828-6356",
+    "interest": {
+      "propertyType": "Comercial",
+      "maxPrice": 1599175
+    },
+    "createdAt": "2026-02-24T05:46:34.809Z"
+  },
+  {
+    "id": "cli-aj0unux2c",
+    "name": "Rafael Rodrigues",
+    "type": "Comprador",
+    "email": "pedro.lima@example.com",
+    "phone": "(11) 97125-2160",
+    "interest": {
+      "propertyType": "Comercial",
+      "maxPrice": 2959186
+    },
+    "createdAt": "2025-09-07T21:18:12.928Z"
+  },
+  {
+    "id": "cli-8pfdso1lh",
+    "name": "Lucas Almeida",
+    "type": "Investidor",
+    "email": "pedro.rodrigues@example.com",
+    "phone": "(11) 94157-4740",
+    "interest": {
+      "propertyType": "Apartamento",
+      "maxPrice": 2101291
+    },
+    "createdAt": "2025-03-24T01:51:03.541Z"
+  },
+  {
+    "id": "cli-kswkwg0qz",
+    "name": "Igor Silva",
+    "type": "Locatário",
+    "email": "helena.pereira@example.com",
+    "phone": "(11) 91740-9337",
+    "interest": {
+      "propertyType": "Apartamento",
+      "maxPrice": 685975
+    },
+    "createdAt": "2026-02-14T20:03:18.342Z"
+  },
+  {
+    "id": "cli-wmuihs09m",
+    "name": "Ana Rodrigues",
+    "type": "Locatário",
+    "email": "pedro.pereira@example.com",
+    "phone": "(11) 95082-5431",
+    "interest": {
+      "propertyType": "Casa",
+      "maxPrice": 2728629
+    },
+    "createdAt": "2025-07-12T14:16:14.201Z"
+  },
+  {
+    "id": "cli-6s3q3xe18",
+    "name": "Lucas Almeida",
+    "type": "Locador",
+    "email": "daniela.costa@example.com",
+    "phone": "(11) 93375-3008",
+    "interest": {
+      "propertyType": "Cobertura",
+      "maxPrice": 808571
+    },
+    "createdAt": "2026-02-24T17:22:05.359Z"
+  },
+  {
+    "id": "cli-arvwgfs4q",
+    "name": "Lucas Ribeiro",
+    "type": "Vendedor",
+    "email": "bruno.alves@example.com",
+    "phone": "(11) 98728-5924",
+    "interest": {
+      "propertyType": "Apartamento",
+      "maxPrice": 2772178
+    },
+    "createdAt": "2025-12-17T18:17:10.226Z"
+  },
+  {
+    "id": "cli-24tu17m4n",
+    "name": "Daniela Santos",
+    "type": "Locador",
+    "email": "daniela.souza@example.com",
+    "phone": "(11) 96150-8166",
+    "interest": {
+      "propertyType": "Casa",
+      "maxPrice": 1386738
+    },
+    "createdAt": "2025-12-31T16:41:02.217Z"
+  },
+  {
+    "id": "cli-qb28wzqi0",
+    "name": "Sofia Gomes",
+    "type": "Investidor",
+    "email": "sofia.costa@example.com",
+    "phone": "(11) 96077-7368",
+    "interest": {
+      "propertyType": "Comercial",
+      "maxPrice": 1116965
+    },
+    "createdAt": "2025-08-02T17:01:32.680Z"
+  },
+  {
+    "id": "cli-drm0ukb6q",
+    "name": "Pedro Pereira",
+    "type": "Comprador",
+    "email": "helena.ribeiro@example.com",
+    "phone": "(11) 93856-4082",
+    "interest": {
+      "propertyType": "Terreno",
+      "maxPrice": 2020583
+    },
+    "createdAt": "2025-04-29T03:05:52.068Z"
+  },
+  {
+    "id": "cli-uubwbv73m",
+    "name": "Ana Almeida",
+    "type": "Vendedor",
+    "email": "mariana.almeida@example.com",
+    "phone": "(11) 93196-1279",
+    "interest": {
+      "propertyType": "Terreno",
+      "maxPrice": 1768691
+    },
+    "createdAt": "2025-08-15T07:53:53.725Z"
+  },
+  {
+    "id": "cli-g06bw5sm5",
+    "name": "Sofia Lima",
+    "type": "Investidor",
+    "email": "pedro.almeida@example.com",
+    "phone": "(11) 99409-9484",
+    "interest": {
+      "propertyType": "Comercial",
+      "maxPrice": 1089809
+    },
+    "createdAt": "2025-10-22T13:31:51.005Z"
+  },
+  {
+    "id": "cli-mj6l4ihds",
+    "name": "Mariana Lima",
+    "type": "Comprador",
+    "email": "gabriel.pereira@example.com",
+    "phone": "(11) 96162-9075",
+    "interest": {
+      "propertyType": "Cobertura",
+      "maxPrice": 2389036
+    },
+    "createdAt": "2025-07-11T11:30:25.870Z"
+  },
+  {
+    "id": "cli-aeo1ah3vs",
+    "name": "Mariana Ferreira",
+    "type": "Vendedor",
+    "email": "lucas.ribeiro@example.com",
+    "phone": "(11) 94684-5305",
+    "interest": {
+      "propertyType": "Cobertura",
+      "maxPrice": 1876577
+    },
+    "createdAt": "2026-02-08T02:29:29.678Z"
+  },
+  {
+    "id": "cli-g8w6qfxpe",
+    "name": "Mariana Silva",
+    "type": "Comprador",
+    "email": "gabriel.pereira@example.com",
+    "phone": "(11) 91642-6984",
+    "interest": {
+      "propertyType": "Apartamento",
+      "maxPrice": 2649231
+    },
+    "createdAt": "2026-01-21T15:17:09.775Z"
+  },
+  {
+    "id": "cli-3q94f1j5e",
+    "name": "Pedro Gomes",
+    "type": "Locatário",
+    "email": "lucas.costa@example.com",
+    "phone": "(11) 92051-1163",
+    "interest": {
+      "propertyType": "Terreno",
+      "maxPrice": 2005165
+    },
+    "createdAt": "2025-12-15T03:54:41.686Z"
+  },
+  {
+    "id": "cli-1sxm307hx",
+    "name": "Lucas Ferreira",
+    "type": "Vendedor",
+    "email": "igor.carvalho@example.com",
+    "phone": "(11) 97655-3400",
+    "interest": {
+      "propertyType": "Cobertura",
+      "maxPrice": 1091723
+    },
+    "createdAt": "2025-09-16T09:05:23.453Z"
+  },
+  {
+    "id": "cli-yiz0jnu8e",
+    "name": "Julia Ribeiro",
+    "type": "Investidor",
+    "email": "fernanda.carvalho@example.com",
+    "phone": "(11) 98417-2469",
+    "interest": {
+      "propertyType": "Terreno",
+      "maxPrice": 2750195
+    },
+    "createdAt": "2026-03-01T08:43:28.652Z"
+  },
+  {
+    "id": "cli-jn8vofsa5",
+    "name": "Daniela Rodrigues",
+    "type": "Investidor",
+    "email": "gabriel.carvalho@example.com",
+    "phone": "(11) 97329-5954",
+    "interest": {
+      "propertyType": "Cobertura",
+      "maxPrice": 2214026
+    },
+    "createdAt": "2025-05-10T23:19:54.659Z"
+  },
+  {
+    "id": "cli-2ga7xb2pv",
+    "name": "Eduardo Alves",
+    "type": "Locatário",
+    "email": "julia.pereira@example.com",
+    "phone": "(11) 96618-9713",
+    "interest": {
+      "propertyType": "Apartamento",
+      "maxPrice": 2068337
+    },
+    "createdAt": "2025-08-10T03:32:15.702Z"
+  },
+  {
+    "id": "cli-b6w8eytvy",
+    "name": "Fernanda Pereira",
+    "type": "Locatário",
+    "email": "bruno.lima@example.com",
+    "phone": "(11) 94074-3144",
+    "interest": {
+      "propertyType": "Cobertura",
+      "maxPrice": 1512891
+    },
+    "createdAt": "2026-02-27T10:06:34.036Z"
+  },
+  {
+    "id": "cli-5clnzonxx",
+    "name": "Bruno Rodrigues",
+    "type": "Vendedor",
+    "email": "daniela.ferreira@example.com",
+    "phone": "(11) 99573-2329",
+    "interest": {
+      "propertyType": "Casa",
+      "maxPrice": 822096
+    },
+    "createdAt": "2025-06-21T13:52:36.892Z"
+  },
+  {
+    "id": "cli-756inzkp3",
+    "name": "Ana Silva",
+    "type": "Locatário",
+    "email": "gabriel.almeida@example.com",
+    "phone": "(11) 96384-3209",
+    "interest": {
+      "propertyType": "Comercial",
+      "maxPrice": 545744
+    },
+    "createdAt": "2026-01-28T12:58:59.555Z"
+  },
+  {
+    "id": "cli-ly83fu17g",
+    "name": "Sofia Gomes",
+    "type": "Investidor",
+    "email": "mariana.pereira@example.com",
+    "phone": "(11) 91144-9584",
+    "interest": {
+      "propertyType": "Comercial",
+      "maxPrice": 544492
+    },
+    "createdAt": "2025-11-11T12:40:00.575Z"
+  },
+  {
+    "id": "cli-vm4gkq7oj",
+    "name": "Gabriel Santos",
+    "type": "Locador",
+    "email": "igor.costa@example.com",
+    "phone": "(11) 98030-7601",
+    "interest": {
+      "propertyType": "Terreno",
+      "maxPrice": 1752754
+    },
+    "createdAt": "2025-05-12T03:27:01.259Z"
+  },
+  {
+    "id": "cli-2rjkd2wt4",
+    "name": "Eduardo Oliveira",
+    "type": "Locatário",
+    "email": "pedro.souza@example.com",
+    "phone": "(11) 93415-7139",
+    "interest": {
+      "propertyType": "Comercial",
+      "maxPrice": 569843
+    },
+    "createdAt": "2025-07-02T03:15:31.521Z"
+  },
+  {
+    "id": "cli-ace5xkn72",
+    "name": "Pedro Ferreira",
+    "type": "Locatário",
+    "email": "gabriel.silva@example.com",
+    "phone": "(11) 92581-8654",
+    "interest": {
+      "propertyType": "Cobertura",
+      "maxPrice": 674599
+    },
+    "createdAt": "2025-07-21T07:46:07.379Z"
+  },
+  {
+    "id": "cli-752av7frs",
+    "name": "Helena Oliveira",
+    "type": "Comprador",
+    "email": "ana.souza@example.com",
+    "phone": "(11) 99531-5910",
+    "interest": {
+      "propertyType": "Apartamento",
+      "maxPrice": 1852455
+    },
+    "createdAt": "2025-04-24T18:47:08.499Z"
+  },
+  {
+    "id": "cli-yzcscnq42",
+    "name": "Helena Gomes",
+    "type": "Investidor",
+    "email": "carlos.oliveira@example.com",
+    "phone": "(11) 91247-9931",
+    "interest": {
+      "propertyType": "Cobertura",
+      "maxPrice": 1709806
+    },
+    "createdAt": "2025-07-09T21:30:32.039Z"
+  },
+  {
+    "id": "cli-2mrop2x6h",
+    "name": "Fernanda Martins",
+    "type": "Locador",
+    "email": "pedro.oliveira@example.com",
+    "phone": "(11) 98487-2852",
+    "interest": {
+      "propertyType": "Comercial",
+      "maxPrice": 2061391
+    },
+    "createdAt": "2025-04-18T03:00:02.708Z"
+  },
+  {
+    "id": "cli-nwno0s3ik",
+    "name": "Pedro Carvalho",
+    "type": "Locatário",
+    "email": "mariana.oliveira@example.com",
+    "phone": "(11) 99970-7514",
+    "interest": {
+      "propertyType": "Cobertura",
+      "maxPrice": 2116895
+    },
+    "createdAt": "2025-05-31T08:34:00.059Z"
+  },
+  {
+    "id": "cli-bnp9jbo04",
+    "name": "Bruno Ferreira",
+    "type": "Investidor",
+    "email": "fernanda.lima@example.com",
+    "phone": "(11) 91438-7872",
+    "interest": {
+      "propertyType": "Cobertura",
+      "maxPrice": 1044312
+    },
+    "createdAt": "2025-04-27T15:13:10.141Z"
+  },
+  {
+    "id": "cli-gj4c18myw",
+    "name": "Carlos Rodrigues",
+    "type": "Locatário",
+    "email": "daniela.costa@example.com",
+    "phone": "(11) 92930-7548",
+    "interest": {
+      "propertyType": "Comercial",
+      "maxPrice": 2236497
+    },
+    "createdAt": "2025-07-13T01:56:54.101Z"
+  },
+  {
+    "id": "cli-fder82i9j",
+    "name": "Helena Ferreira",
+    "type": "Investidor",
+    "email": "carlos.costa@example.com",
+    "phone": "(11) 98082-5092",
+    "interest": {
+      "propertyType": "Cobertura",
+      "maxPrice": 1948541
+    },
+    "createdAt": "2025-06-26T15:16:25.000Z"
+  },
+  {
+    "id": "cli-js4svf49b",
+    "name": "Eduardo Pereira",
+    "type": "Vendedor",
+    "email": "rafael.almeida@example.com",
+    "phone": "(11) 98314-8979",
+    "interest": {
+      "propertyType": "Comercial",
+      "maxPrice": 843742
+    },
+    "createdAt": "2025-04-24T14:20:04.981Z"
+  },
+  {
+    "id": "cli-6rjte9iue",
+    "name": "Igor Martins",
+    "type": "Comprador",
+    "email": "lucas.martins@example.com",
+    "phone": "(11) 94675-1662",
+    "interest": {
+      "propertyType": "Cobertura",
+      "maxPrice": 2230006
+    },
+    "createdAt": "2026-03-12T12:33:16.072Z"
+  },
+  {
+    "id": "cli-vhtlf8c6s",
+    "name": "Lucas Oliveira",
+    "type": "Vendedor",
+    "email": "helena.carvalho@example.com",
+    "phone": "(11) 92879-3554",
+    "interest": {
+      "propertyType": "Comercial",
+      "maxPrice": 1318876
+    },
+    "createdAt": "2025-10-19T22:50:47.697Z"
+  },
+  {
+    "id": "cli-s1wy7xgj9",
+    "name": "Rafael Ribeiro",
+    "type": "Locatário",
+    "email": "lucas.almeida@example.com",
+    "phone": "(11) 96736-1575",
+    "interest": {
+      "propertyType": "Apartamento",
+      "maxPrice": 1750369
+    },
+    "createdAt": "2025-05-30T03:26:29.627Z"
+  },
+  {
+    "id": "cli-eppuvf8aj",
+    "name": "Helena Alves",
+    "type": "Locatário",
+    "email": "rafael.silva@example.com",
+    "phone": "(11) 91630-1137",
+    "interest": {
+      "propertyType": "Comercial",
+      "maxPrice": 1946413
+    },
+    "createdAt": "2025-07-18T00:36:55.523Z"
+  },
+  {
+    "id": "cli-5p07oiuy3",
+    "name": "Pedro Pereira",
+    "type": "Locador",
+    "email": "eduardo.martins@example.com",
+    "phone": "(11) 94685-8603",
+    "interest": {
+      "propertyType": "Cobertura",
+      "maxPrice": 1134970
+    },
+    "createdAt": "2026-01-01T00:09:29.449Z"
+  },
+  {
+    "id": "cli-cg573ovmi",
+    "name": "Mariana Ferreira",
+    "type": "Comprador",
+    "email": "pedro.oliveira@example.com",
+    "phone": "(11) 93058-5052",
+    "interest": {
+      "propertyType": "Casa",
+      "maxPrice": 2874832
+    },
+    "createdAt": "2025-09-04T07:34:34.806Z"
+  },
+  {
+    "id": "cli-xux58m9pf",
+    "name": "Rafael Santos",
+    "type": "Investidor",
+    "email": "rafael.costa@example.com",
+    "phone": "(11) 91335-2155",
+    "interest": {
+      "propertyType": "Comercial",
+      "maxPrice": 2538226
+    },
+    "createdAt": "2025-05-07T06:44:58.395Z"
+  },
+  {
+    "id": "cli-tilazr4ln",
+    "name": "Ana Pereira",
+    "type": "Vendedor",
+    "email": "bruno.martins@example.com",
+    "phone": "(11) 91312-1537",
+    "interest": {
+      "propertyType": "Casa",
+      "maxPrice": 683785
+    },
+    "createdAt": "2025-07-22T18:29:54.866Z"
+  },
+  {
+    "id": "cli-nns2oz5zq",
+    "name": "Fernanda Pereira",
+    "type": "Comprador",
+    "email": "sofia.rodrigues@example.com",
+    "phone": "(11) 96857-9361",
+    "interest": {
+      "propertyType": "Casa",
+      "maxPrice": 2685402
+    },
+    "createdAt": "2025-06-26T17:45:44.175Z"
+  },
+  {
+    "id": "cli-e8whxautf",
+    "name": "Julia Costa",
+    "type": "Locatário",
+    "email": "helena.santos@example.com",
+    "phone": "(11) 99278-2042",
+    "interest": {
+      "propertyType": "Comercial",
+      "maxPrice": 1085484
+    },
+    "createdAt": "2025-11-25T22:09:52.489Z"
+  },
+  {
+    "id": "cli-xra6x105b",
+    "name": "Daniela Ribeiro",
+    "type": "Locatário",
+    "email": "helena.ferreira@example.com",
+    "phone": "(11) 91198-1349",
+    "interest": {
+      "propertyType": "Terreno",
+      "maxPrice": 2571613
+    },
+    "createdAt": "2026-02-27T15:42:30.759Z"
+  },
+  {
+    "id": "cli-zwnhqjla9",
+    "name": "Helena Ribeiro",
+    "type": "Vendedor",
+    "email": "ana.alves@example.com",
+    "phone": "(11) 97393-7758",
+    "interest": {
+      "propertyType": "Terreno",
+      "maxPrice": 2081374
+    },
+    "createdAt": "2025-12-26T00:10:16.518Z"
+  },
+  {
+    "id": "cli-k77llmlr6",
+    "name": "Ana Costa",
+    "type": "Locatário",
+    "email": "helena.ribeiro@example.com",
+    "phone": "(11) 94451-8781",
+    "interest": {
+      "propertyType": "Comercial",
+      "maxPrice": 1545866
+    },
+    "createdAt": "2026-02-03T05:55:18.082Z"
+  },
+  {
+    "id": "cli-go5q9svsx",
+    "name": "Ana Souza",
+    "type": "Locatário",
+    "email": "julia.ferreira@example.com",
+    "phone": "(11) 92086-4390",
+    "interest": {
+      "propertyType": "Casa",
+      "maxPrice": 2209422
+    },
+    "createdAt": "2026-01-19T08:40:29.641Z"
+  },
+  {
+    "id": "cli-7moruv3ls",
+    "name": "Igor Santos",
+    "type": "Investidor",
+    "email": "helena.alves@example.com",
+    "phone": "(11) 95407-9743",
+    "interest": {
+      "propertyType": "Comercial",
+      "maxPrice": 2004552
+    },
+    "createdAt": "2026-01-06T03:29:42.892Z"
+  },
+  {
+    "id": "cli-4co7yeo07",
+    "name": "Pedro Costa",
+    "type": "Vendedor",
+    "email": "fernanda.ribeiro@example.com",
+    "phone": "(11) 96751-7908",
+    "interest": {
+      "propertyType": "Comercial",
+      "maxPrice": 829267
+    },
+    "createdAt": "2025-07-19T01:16:05.205Z"
+  },
+  {
+    "id": "cli-0kcjgf3xr",
+    "name": "Helena Pereira",
+    "type": "Comprador",
+    "email": "fernanda.alves@example.com",
+    "phone": "(11) 94486-6156",
+    "interest": {
+      "propertyType": "Cobertura",
+      "maxPrice": 2986996
+    },
+    "createdAt": "2026-03-08T22:11:37.675Z"
+  },
+  {
+    "id": "cli-dy9q3pzy6",
+    "name": "Gabriel Souza",
+    "type": "Vendedor",
+    "email": "pedro.oliveira@example.com",
+    "phone": "(11) 92430-9025",
+    "interest": {
+      "propertyType": "Apartamento",
+      "maxPrice": 2802388
+    },
+    "createdAt": "2026-03-12T09:19:44.658Z"
+  },
+  {
+    "id": "cli-0uv1alh9n",
+    "name": "Daniela Alves",
+    "type": "Comprador",
+    "email": "ana.pereira@example.com",
+    "phone": "(11) 97677-5753",
+    "interest": {
+      "propertyType": "Terreno",
+      "maxPrice": 1400114
+    },
+    "createdAt": "2025-06-26T05:43:56.996Z"
+  },
+  {
+    "id": "cli-rsviu3yhb",
+    "name": "Sofia Pereira",
+    "type": "Locatário",
+    "email": "eduardo.carvalho@example.com",
+    "phone": "(11) 94145-2961",
+    "interest": {
+      "propertyType": "Cobertura",
+      "maxPrice": 2543460
+    },
+    "createdAt": "2025-03-21T21:38:38.266Z"
+  },
+  {
+    "id": "cli-ztdbvfntk",
+    "name": "Lucas Souza",
+    "type": "Locador",
+    "email": "julia.carvalho@example.com",
+    "phone": "(11) 94641-3180",
+    "interest": {
+      "propertyType": "Cobertura",
+      "maxPrice": 2833267
+    },
+    "createdAt": "2026-01-31T06:09:05.216Z"
+  },
+  {
+    "id": "cli-lb6bvexqm",
+    "name": "Lucas Ribeiro",
+    "type": "Vendedor",
+    "email": "igor.lima@example.com",
+    "phone": "(11) 92650-6044",
+    "interest": {
+      "propertyType": "Apartamento",
+      "maxPrice": 1923293
+    },
+    "createdAt": "2025-05-07T17:36:21.793Z"
+  },
+  {
+    "id": "cli-belq0hu6q",
+    "name": "Igor Alves",
+    "type": "Locatário",
+    "email": "igor.souza@example.com",
+    "phone": "(11) 98680-5917",
+    "interest": {
+      "propertyType": "Cobertura",
+      "maxPrice": 2290470
+    },
+    "createdAt": "2025-07-14T10:53:28.272Z"
+  },
+  {
+    "id": "cli-o9splhz45",
+    "name": "Daniela Costa",
+    "type": "Investidor",
+    "email": "helena.lima@example.com",
+    "phone": "(11) 94408-2910",
+    "interest": {
+      "propertyType": "Apartamento",
+      "maxPrice": 925255
+    },
+    "createdAt": "2025-12-29T08:53:59.463Z"
+  },
+  {
+    "id": "cli-l4jptljv5",
+    "name": "Daniela Martins",
+    "type": "Comprador",
+    "email": "bruno.silva@example.com",
+    "phone": "(11) 98109-2327",
+    "interest": {
+      "propertyType": "Cobertura",
+      "maxPrice": 2530743
+    },
+    "createdAt": "2025-09-29T16:06:40.374Z"
+  },
+  {
+    "id": "cli-i7g74u41t",
+    "name": "Fernanda Souza",
+    "type": "Investidor",
+    "email": "helena.santos@example.com",
+    "phone": "(11) 97013-3270",
+    "interest": {
+      "propertyType": "Casa",
+      "maxPrice": 2979731
+    },
+    "createdAt": "2025-12-19T01:03:02.055Z"
+  },
+  {
+    "id": "cli-oehztcdy3",
+    "name": "Bruno Santos",
+    "type": "Locatário",
+    "email": "rafael.alves@example.com",
+    "phone": "(11) 97185-7645",
+    "interest": {
+      "propertyType": "Cobertura",
+      "maxPrice": 2123482
+    },
+    "createdAt": "2025-05-06T06:03:34.090Z"
+  },
+  {
+    "id": "cli-znk7blk8x",
+    "name": "Bruno Rodrigues",
+    "type": "Vendedor",
+    "email": "bruno.costa@example.com",
+    "phone": "(11) 95492-6248",
+    "interest": {
+      "propertyType": "Casa",
+      "maxPrice": 1400567
+    },
+    "createdAt": "2026-02-11T16:31:25.375Z"
+  },
+  {
+    "id": "cli-7gblpbil2",
+    "name": "Gabriel Martins",
+    "type": "Comprador",
+    "email": "gabriel.ferreira@example.com",
+    "phone": "(11) 93675-7578",
+    "interest": {
+      "propertyType": "Terreno",
+      "maxPrice": 2190757
+    },
+    "createdAt": "2026-03-08T13:07:28.036Z"
+  },
+  {
+    "id": "cli-qu9kfmoxc",
+    "name": "Mariana Lima",
+    "type": "Investidor",
+    "email": "ana.santos@example.com",
+    "phone": "(11) 95484-6664",
+    "interest": {
+      "propertyType": "Apartamento",
+      "maxPrice": 1418232
+    },
+    "createdAt": "2026-02-02T14:35:40.461Z"
+  },
+  {
+    "id": "cli-6vfdcykn7",
+    "name": "Lucas Santos",
+    "type": "Vendedor",
+    "email": "igor.almeida@example.com",
+    "phone": "(11) 96284-2181",
+    "interest": {
+      "propertyType": "Apartamento",
+      "maxPrice": 2640918
+    },
+    "createdAt": "2026-01-13T08:45:56.647Z"
+  },
+  {
+    "id": "cli-4vgl8q9j4",
+    "name": "Sofia Souza",
+    "type": "Locatário",
+    "email": "bruno.almeida@example.com",
+    "phone": "(11) 95650-5587",
+    "interest": {
+      "propertyType": "Cobertura",
+      "maxPrice": 897075
+    },
+    "createdAt": "2025-11-05T02:59:54.423Z"
+  },
+  {
+    "id": "cli-xx6szbf5c",
+    "name": "Bruno Santos",
+    "type": "Locatário",
+    "email": "pedro.souza@example.com",
+    "phone": "(11) 92912-1747",
+    "interest": {
+      "propertyType": "Terreno",
+      "maxPrice": 1905495
+    },
+    "createdAt": "2025-12-31T06:55:34.839Z"
+  },
+  {
+    "id": "cli-wh7sr2a0h",
+    "name": "Sofia Ribeiro",
+    "type": "Locatário",
+    "email": "daniela.almeida@example.com",
+    "phone": "(11) 95812-4330",
+    "interest": {
+      "propertyType": "Comercial",
+      "maxPrice": 2331917
+    },
+    "createdAt": "2025-05-11T02:13:32.589Z"
+  },
+  {
+    "id": "cli-79zn80wh7",
+    "name": "Pedro Alves",
+    "type": "Comprador",
+    "email": "helena.rodrigues@example.com",
+    "phone": "(11) 96768-4025",
+    "interest": {
+      "propertyType": "Comercial",
+      "maxPrice": 2232657
+    },
+    "createdAt": "2026-01-03T13:55:51.545Z"
+  },
+  {
+    "id": "cli-hxp389ahn",
+    "name": "Gabriel Ferreira",
+    "type": "Locatário",
+    "email": "lucas.santos@example.com",
+    "phone": "(11) 92757-5869",
+    "interest": {
+      "propertyType": "Terreno",
+      "maxPrice": 644246
+    },
+    "createdAt": "2025-08-03T00:42:02.175Z"
+  },
+  {
+    "id": "cli-naz16wock",
+    "name": "Lucas Ribeiro",
+    "type": "Comprador",
+    "email": "eduardo.ribeiro@example.com",
+    "phone": "(11) 94820-1464",
+    "interest": {
+      "propertyType": "Apartamento",
+      "maxPrice": 1080689
+    },
+    "createdAt": "2025-09-15T20:34:13.670Z"
+  },
+  {
+    "id": "cli-yamdqly9b",
+    "name": "Helena Rodrigues",
+    "type": "Locador",
+    "email": "lucas.martins@example.com",
+    "phone": "(11) 99883-8374",
+    "interest": {
+      "propertyType": "Cobertura",
+      "maxPrice": 2970582
+    },
+    "createdAt": "2026-02-11T06:13:01.038Z"
+  },
+  {
+    "id": "cli-gs6dggjlf",
+    "name": "Igor Souza",
+    "type": "Investidor",
+    "email": "gabriel.souza@example.com",
+    "phone": "(11) 97444-1057",
+    "interest": {
+      "propertyType": "Cobertura",
+      "maxPrice": 528148
+    },
+    "createdAt": "2025-09-17T10:25:19.232Z"
+  },
+  {
+    "id": "cli-9rgui8q6b",
+    "name": "Mariana Gomes",
+    "type": "Locador",
+    "email": "carlos.carvalho@example.com",
+    "phone": "(11) 95307-4971",
+    "interest": {
+      "propertyType": "Casa",
+      "maxPrice": 2314328
+    },
+    "createdAt": "2025-12-06T02:38:36.236Z"
+  },
+  {
+    "id": "cli-mqiipi3lz",
+    "name": "Ana Ribeiro",
+    "type": "Comprador",
+    "email": "daniela.pereira@example.com",
+    "phone": "(11) 92277-7712",
+    "interest": {
+      "propertyType": "Terreno",
+      "maxPrice": 1729603
+    },
+    "createdAt": "2025-08-27T16:21:24.802Z"
+  },
+  {
+    "id": "cli-1evs66ios",
+    "name": "Sofia Souza",
+    "type": "Comprador",
+    "email": "carlos.souza@example.com",
+    "phone": "(11) 97648-4925",
+    "interest": {
+      "propertyType": "Apartamento",
+      "maxPrice": 1432156
+    },
+    "createdAt": "2025-07-07T20:07:18.229Z"
+  },
+  {
+    "id": "cli-oi8o1rlga",
+    "name": "Julia Oliveira",
+    "type": "Locador",
+    "email": "mariana.rodrigues@example.com",
+    "phone": "(11) 98443-1796",
+    "interest": {
+      "propertyType": "Cobertura",
+      "maxPrice": 2396662
+    },
+    "createdAt": "2025-11-05T12:22:00.014Z"
+  },
+  {
+    "id": "cli-oxey7p9yq",
+    "name": "Igor Ferreira",
+    "type": "Locatário",
+    "email": "rafael.santos@example.com",
+    "phone": "(11) 93468-9286",
+    "interest": {
+      "propertyType": "Terreno",
+      "maxPrice": 2035998
+    },
+    "createdAt": "2025-09-12T01:33:20.245Z"
+  },
+  {
+    "id": "cli-da1yu4b1t",
+    "name": "Pedro Souza",
+    "type": "Locatário",
+    "email": "igor.carvalho@example.com",
+    "phone": "(11) 94396-3101",
+    "interest": {
+      "propertyType": "Casa",
+      "maxPrice": 769004
+    },
+    "createdAt": "2025-04-29T14:52:47.966Z"
+  },
+  {
+    "id": "cli-mo6n3xcod",
+    "name": "Mariana Ribeiro",
+    "type": "Investidor",
+    "email": "pedro.santos@example.com",
+    "phone": "(11) 92260-2472",
+    "interest": {
+      "propertyType": "Comercial",
+      "maxPrice": 548886
+    },
+    "createdAt": "2025-08-07T16:24:09.446Z"
+  },
+  {
+    "id": "cli-ne0rnmqqe",
+    "name": "Carlos Costa",
+    "type": "Comprador",
+    "email": "bruno.alves@example.com",
+    "phone": "(11) 92976-2250",
+    "interest": {
+      "propertyType": "Terreno",
+      "maxPrice": 1518798
+    },
+    "createdAt": "2025-11-25T05:43:13.101Z"
+  },
+  {
+    "id": "cli-zounoahya",
+    "name": "Fernanda Alves",
+    "type": "Comprador",
+    "email": "daniela.lima@example.com",
+    "phone": "(11) 92334-6250",
+    "interest": {
+      "propertyType": "Comercial",
+      "maxPrice": 2210351
+    },
+    "createdAt": "2026-03-09T15:43:27.991Z"
+  },
+  {
+    "id": "cli-rydabphh2",
+    "name": "Lucas Ferreira",
+    "type": "Locador",
+    "email": "mariana.alves@example.com",
+    "phone": "(11) 96753-8698",
+    "interest": {
+      "propertyType": "Comercial",
+      "maxPrice": 2249300
+    },
+    "createdAt": "2025-09-17T08:48:02.639Z"
+  },
+  {
+    "id": "cli-m4ekv3rgo",
+    "name": "Carlos Ribeiro",
+    "type": "Locatário",
+    "email": "pedro.carvalho@example.com",
+    "phone": "(11) 97576-8873",
+    "interest": {
+      "propertyType": "Apartamento",
+      "maxPrice": 2838072
+    },
+    "createdAt": "2026-01-29T17:36:16.814Z"
+  },
+  {
+    "id": "cli-pt1ahqkq2",
+    "name": "Pedro Costa",
+    "type": "Investidor",
+    "email": "ana.martins@example.com",
+    "phone": "(11) 96831-2992",
+    "interest": {
+      "propertyType": "Cobertura",
+      "maxPrice": 1419919
+    },
+    "createdAt": "2025-08-12T21:16:18.891Z"
+  },
+  {
+    "id": "cli-paxz8rxhs",
+    "name": "Helena Costa",
+    "type": "Locatário",
+    "email": "sofia.gomes@example.com",
+    "phone": "(11) 96835-5346",
+    "interest": {
+      "propertyType": "Comercial",
+      "maxPrice": 2789093
+    },
+    "createdAt": "2025-04-11T16:20:57.039Z"
+  },
+  {
+    "id": "cli-0dnydpy5j",
+    "name": "Carlos Rodrigues",
+    "type": "Vendedor",
+    "email": "carlos.almeida@example.com",
+    "phone": "(11) 92329-5437",
+    "interest": {
+      "propertyType": "Cobertura",
+      "maxPrice": 1377127
+    },
+    "createdAt": "2026-01-27T12:53:14.225Z"
+  },
+  {
+    "id": "cli-wy1oe305w",
+    "name": "Carlos Santos",
+    "type": "Comprador",
+    "email": "rafael.souza@example.com",
+    "phone": "(11) 96147-8144",
+    "interest": {
+      "propertyType": "Comercial",
+      "maxPrice": 2658237
+    },
+    "createdAt": "2025-09-13T14:27:40.906Z"
+  },
+  {
+    "id": "cli-lpq91367d",
+    "name": "Daniela Lima",
+    "type": "Locatário",
+    "email": "pedro.souza@example.com",
+    "phone": "(11) 99280-7392",
+    "interest": {
+      "propertyType": "Casa",
+      "maxPrice": 1821312
+    },
+    "createdAt": "2025-05-27T11:30:05.666Z"
+  },
+  {
+    "id": "cli-qte24qc2a",
+    "name": "Ana Silva",
+    "type": "Investidor",
+    "email": "bruno.oliveira@example.com",
+    "phone": "(11) 97635-1311",
+    "interest": {
+      "propertyType": "Cobertura",
+      "maxPrice": 2375316
+    },
+    "createdAt": "2025-05-26T04:12:08.881Z"
+  },
+  {
+    "id": "cli-tjsdirnfq",
+    "name": "Mariana Pereira",
+    "type": "Locatário",
+    "email": "lucas.costa@example.com",
+    "phone": "(11) 93775-9116",
+    "interest": {
+      "propertyType": "Apartamento",
+      "maxPrice": 1469142
+    },
+    "createdAt": "2025-04-26T08:55:45.029Z"
+  },
+  {
+    "id": "cli-jnzkaoltx",
+    "name": "Daniela Alves",
+    "type": "Locador",
+    "email": "lucas.gomes@example.com",
+    "phone": "(11) 93281-7417",
+    "interest": {
+      "propertyType": "Casa",
+      "maxPrice": 879795
+    },
+    "createdAt": "2025-04-26T01:44:32.952Z"
+  },
+  {
+    "id": "cli-f2v3unrk7",
+    "name": "Igor Silva",
+    "type": "Vendedor",
+    "email": "igor.carvalho@example.com",
+    "phone": "(11) 98687-9729",
+    "interest": {
+      "propertyType": "Comercial",
+      "maxPrice": 2505936
+    },
+    "createdAt": "2025-05-07T18:52:24.815Z"
+  },
+  {
+    "id": "cli-9rkgd3fz0",
+    "name": "Gabriel Oliveira",
+    "type": "Comprador",
+    "email": "pedro.souza@example.com",
+    "phone": "(11) 94319-6804",
+    "interest": {
+      "propertyType": "Apartamento",
+      "maxPrice": 2995861
+    },
+    "createdAt": "2025-10-17T02:45:43.425Z"
+  },
+  {
+    "id": "cli-g83ms036l",
+    "name": "Mariana Martins",
+    "type": "Vendedor",
+    "email": "daniela.santos@example.com",
+    "phone": "(11) 97285-6703",
+    "interest": {
+      "propertyType": "Apartamento",
+      "maxPrice": 1535252
+    },
+    "createdAt": "2025-10-18T10:39:38.694Z"
+  },
+  {
+    "id": "cli-2k0higxjr",
+    "name": "Mariana Oliveira",
+    "type": "Investidor",
+    "email": "rafael.almeida@example.com",
+    "phone": "(11) 91321-1049",
+    "interest": {
+      "propertyType": "Apartamento",
+      "maxPrice": 712075
+    },
+    "createdAt": "2025-12-22T05:57:49.592Z"
+  },
+  {
+    "id": "cli-ad7tm926a",
+    "name": "Igor Lima",
+    "type": "Comprador",
+    "email": "helena.souza@example.com",
+    "phone": "(11) 91829-7598",
+    "interest": {
+      "propertyType": "Cobertura",
+      "maxPrice": 1434697
+    },
+    "createdAt": "2025-04-04T09:17:09.738Z"
+  },
+  {
+    "id": "cli-zmn2c8gpx",
+    "name": "Igor Costa",
+    "type": "Locador",
+    "email": "mariana.santos@example.com",
+    "phone": "(11) 95182-8387",
+    "interest": {
+      "propertyType": "Casa",
+      "maxPrice": 1672521
+    },
+    "createdAt": "2025-11-03T22:43:28.513Z"
+  },
+  {
+    "id": "cli-7oi96vlu7",
+    "name": "Igor Carvalho",
+    "type": "Locatário",
+    "email": "lucas.santos@example.com",
+    "phone": "(11) 96851-4634",
+    "interest": {
+      "propertyType": "Terreno",
+      "maxPrice": 1956407
+    },
+    "createdAt": "2025-11-24T09:17:30.640Z"
+  },
+  {
+    "id": "cli-mmnh2v1p6",
+    "name": "Ana Carvalho",
+    "type": "Comprador",
+    "email": "gabriel.lima@example.com",
+    "phone": "(11) 91518-8847",
+    "interest": {
+      "propertyType": "Comercial",
+      "maxPrice": 1565836
+    },
+    "createdAt": "2025-06-24T15:54:12.623Z"
+  },
+  {
+    "id": "cli-ukutkcajj",
+    "name": "Pedro Rodrigues",
+    "type": "Vendedor",
+    "email": "bruno.gomes@example.com",
+    "phone": "(11) 92052-1857",
+    "interest": {
+      "propertyType": "Apartamento",
+      "maxPrice": 1288048
+    },
+    "createdAt": "2025-08-08T01:19:08.495Z"
+  },
+  {
+    "id": "cli-ywynk9y94",
+    "name": "Rafael Alves",
+    "type": "Comprador",
+    "email": "lucas.silva@example.com",
+    "phone": "(11) 95662-4765",
+    "interest": {
+      "propertyType": "Cobertura",
+      "maxPrice": 507517
+    },
+    "createdAt": "2025-10-05T13:32:03.692Z"
+  },
+  {
+    "id": "cli-69hioa78v",
+    "name": "Rafael Pereira",
+    "type": "Comprador",
+    "email": "gabriel.rodrigues@example.com",
+    "phone": "(11) 98255-1155",
+    "interest": {
+      "propertyType": "Comercial",
+      "maxPrice": 1046399
+    },
+    "createdAt": "2025-09-10T09:00:10.218Z"
+  },
+  {
+    "id": "cli-ootemquwr",
+    "name": "Rafael Gomes",
+    "type": "Locador",
+    "email": "igor.ferreira@example.com",
+    "phone": "(11) 93543-5031",
+    "interest": {
+      "propertyType": "Cobertura",
+      "maxPrice": 2924782
+    },
+    "createdAt": "2025-12-28T23:16:26.287Z"
+  },
+  {
+    "id": "cli-dwoekygeu",
+    "name": "Rafael Carvalho",
+    "type": "Comprador",
+    "email": "rafael.lima@example.com",
+    "phone": "(11) 97447-6791",
+    "interest": {
+      "propertyType": "Casa",
+      "maxPrice": 2413461
+    },
+    "createdAt": "2025-08-09T00:40:24.388Z"
+  },
+  {
+    "id": "cli-2mdeszmwc",
+    "name": "Sofia Carvalho",
+    "type": "Vendedor",
+    "email": "mariana.souza@example.com",
+    "phone": "(11) 95315-9855",
+    "interest": {
+      "propertyType": "Casa",
+      "maxPrice": 2553546
+    },
+    "createdAt": "2025-04-01T06:39:47.142Z"
+  },
+  {
+    "id": "cli-5p1txrskk",
+    "name": "Lucas Ribeiro",
+    "type": "Vendedor",
+    "email": "daniela.martins@example.com",
+    "phone": "(11) 98088-3157",
+    "interest": {
+      "propertyType": "Apartamento",
+      "maxPrice": 1370352
+    },
+    "createdAt": "2025-04-20T16:38:16.341Z"
+  },
+  {
+    "id": "cli-ud8n3n0eu",
+    "name": "Fernanda Alves",
+    "type": "Comprador",
+    "email": "rafael.oliveira@example.com",
+    "phone": "(11) 97872-9383",
+    "interest": {
+      "propertyType": "Terreno",
+      "maxPrice": 2314484
+    },
+    "createdAt": "2025-10-01T03:21:53.978Z"
+  },
+  {
+    "id": "cli-nvezpoqem",
+    "name": "Bruno Pereira",
+    "type": "Locador",
+    "email": "julia.carvalho@example.com",
+    "phone": "(11) 91186-4581",
+    "interest": {
+      "propertyType": "Terreno",
+      "maxPrice": 1832596
+    },
+    "createdAt": "2025-10-09T04:27:04.138Z"
+  },
+  {
+    "id": "cli-tcf1869g4",
+    "name": "Gabriel Gomes",
+    "type": "Vendedor",
+    "email": "lucas.santos@example.com",
+    "phone": "(11) 96814-5335",
+    "interest": {
+      "propertyType": "Cobertura",
+      "maxPrice": 2367024
+    },
+    "createdAt": "2026-01-17T20:21:54.196Z"
+  },
+  {
+    "id": "cli-orjqfhz1o",
+    "name": "Bruno Costa",
+    "type": "Comprador",
+    "email": "julia.gomes@example.com",
+    "phone": "(11) 96231-6929",
+    "interest": {
+      "propertyType": "Apartamento",
+      "maxPrice": 1209897
+    },
+    "createdAt": "2025-03-27T03:28:58.242Z"
+  },
+  {
+    "id": "cli-e1xeoxvep",
+    "name": "Helena Ferreira",
+    "type": "Vendedor",
+    "email": "gabriel.lima@example.com",
+    "phone": "(11) 93690-2588",
+    "interest": {
+      "propertyType": "Apartamento",
+      "maxPrice": 1488988
+    },
+    "createdAt": "2025-10-02T06:58:01.259Z"
+  },
+  {
+    "id": "cli-fg1monpsq",
+    "name": "Eduardo Souza",
+    "type": "Comprador",
+    "email": "helena.rodrigues@example.com",
+    "phone": "(11) 98061-9379",
+    "interest": {
+      "propertyType": "Terreno",
+      "maxPrice": 1523726
+    },
+    "createdAt": "2026-03-15T00:03:46.486Z"
+  },
+  {
+    "id": "cli-poqbof02k",
+    "name": "Rafael Martins",
+    "type": "Vendedor",
+    "email": "helena.ribeiro@example.com",
+    "phone": "(11) 94929-9543",
+    "interest": {
+      "propertyType": "Terreno",
+      "maxPrice": 719770
+    },
+    "createdAt": "2026-01-29T19:05:29.491Z"
+  },
+  {
+    "id": "cli-1xlqdyf36",
+    "name": "Bruno Ferreira",
+    "type": "Locador",
+    "email": "mariana.silva@example.com",
+    "phone": "(11) 93270-5905",
+    "interest": {
+      "propertyType": "Terreno",
+      "maxPrice": 2605584
+    },
+    "createdAt": "2025-11-13T18:36:51.509Z"
+  },
+  {
+    "id": "cli-qafwopymh",
+    "name": "Lucas Lima",
+    "type": "Vendedor",
+    "email": "carlos.carvalho@example.com",
+    "phone": "(11) 96009-3093",
+    "interest": {
+      "propertyType": "Terreno",
+      "maxPrice": 1650167
+    },
+    "createdAt": "2026-01-08T01:01:44.664Z"
+  },
+  {
+    "id": "cli-z5wtd8wfp",
+    "name": "Daniela Silva",
+    "type": "Comprador",
+    "email": "fernanda.almeida@example.com",
+    "phone": "(11) 98127-7560",
+    "interest": {
+      "propertyType": "Cobertura",
+      "maxPrice": 1222534
+    },
+    "createdAt": "2026-01-31T00:37:19.862Z"
+  },
+  {
+    "id": "cli-hfjnx0f7v",
+    "name": "Helena Ribeiro",
+    "type": "Investidor",
+    "email": "bruno.carvalho@example.com",
+    "phone": "(11) 91472-2616",
+    "interest": {
+      "propertyType": "Terreno",
+      "maxPrice": 2726547
+    },
+    "createdAt": "2025-12-07T06:03:52.117Z"
+  },
+  {
+    "id": "cli-qfk6y4vt4",
+    "name": "Igor Martins",
+    "type": "Locador",
+    "email": "lucas.silva@example.com",
+    "phone": "(11) 92906-2582",
+    "interest": {
+      "propertyType": "Apartamento",
+      "maxPrice": 2778064
+    },
+    "createdAt": "2026-02-27T14:04:03.013Z"
+  },
+  {
+    "id": "cli-rz57eccxn",
+    "name": "Daniela Santos",
+    "type": "Vendedor",
+    "email": "lucas.costa@example.com",
+    "phone": "(11) 98765-8889",
+    "interest": {
+      "propertyType": "Cobertura",
+      "maxPrice": 2854830
+    },
+    "createdAt": "2025-08-16T00:31:42.081Z"
+  },
+  {
+    "id": "cli-q4g41w2vu",
+    "name": "Eduardo Pereira",
+    "type": "Vendedor",
+    "email": "helena.almeida@example.com",
+    "phone": "(11) 96449-3751",
+    "interest": {
+      "propertyType": "Casa",
+      "maxPrice": 2630172
+    },
+    "createdAt": "2026-01-29T05:55:26.685Z"
+  },
+  {
+    "id": "cli-xria5czfk",
+    "name": "Igor Gomes",
+    "type": "Investidor",
+    "email": "fernanda.santos@example.com",
+    "phone": "(11) 99803-8932",
+    "interest": {
+      "propertyType": "Casa",
+      "maxPrice": 1125181
+    },
+    "createdAt": "2025-11-27T07:44:56.671Z"
+  },
+  {
+    "id": "cli-tfv6lzqyk",
+    "name": "Daniela Pereira",
+    "type": "Investidor",
+    "email": "ana.almeida@example.com",
+    "phone": "(11) 96271-9498",
+    "interest": {
+      "propertyType": "Terreno",
+      "maxPrice": 2607536
+    },
+    "createdAt": "2025-09-26T17:38:55.030Z"
+  },
+  {
+    "id": "cli-0aja4unzw",
+    "name": "Bruno Alves",
+    "type": "Investidor",
+    "email": "ana.rodrigues@example.com",
+    "phone": "(11) 98643-8320",
+    "interest": {
+      "propertyType": "Casa",
+      "maxPrice": 2804159
+    },
+    "createdAt": "2025-05-29T09:26:17.990Z"
+  },
+  {
+    "id": "cli-1u13r17ao",
+    "name": "Rafael Martins",
+    "type": "Locatário",
+    "email": "rafael.carvalho@example.com",
+    "phone": "(11) 97328-5962",
+    "interest": {
+      "propertyType": "Cobertura",
+      "maxPrice": 2327523
+    },
+    "createdAt": "2025-08-30T19:48:04.085Z"
+  },
+  {
+    "id": "cli-bnmmgn4ut",
+    "name": "Ana Alves",
+    "type": "Locador",
+    "email": "sofia.ribeiro@example.com",
+    "phone": "(11) 99051-6444",
+    "interest": {
+      "propertyType": "Apartamento",
+      "maxPrice": 1167611
+    },
+    "createdAt": "2026-03-16T06:17:27.782Z"
+  },
+  {
+    "id": "cli-i7f5033gs",
+    "name": "Daniela Silva",
+    "type": "Comprador",
+    "email": "rafael.gomes@example.com",
+    "phone": "(11) 96157-6181",
+    "interest": {
+      "propertyType": "Cobertura",
+      "maxPrice": 2967227
+    },
+    "createdAt": "2026-01-04T22:43:04.641Z"
+  },
+  {
+    "id": "cli-bi3su0864",
+    "name": "Igor Ferreira",
+    "type": "Locador",
+    "email": "sofia.ribeiro@example.com",
+    "phone": "(11) 92661-1302",
+    "interest": {
+      "propertyType": "Terreno",
+      "maxPrice": 1914109
+    },
+    "createdAt": "2026-03-02T07:06:03.106Z"
+  },
+  {
+    "id": "cli-9cwdfb06i",
+    "name": "Eduardo Ferreira",
+    "type": "Investidor",
+    "email": "bruno.carvalho@example.com",
+    "phone": "(11) 99597-1323",
+    "interest": {
+      "propertyType": "Terreno",
+      "maxPrice": 2872322
+    },
+    "createdAt": "2025-06-05T19:52:32.920Z"
+  },
+  {
+    "id": "cli-enpz8ztvb",
+    "name": "Helena Lima",
+    "type": "Locatário",
+    "email": "eduardo.ferreira@example.com",
+    "phone": "(11) 94538-3469",
+    "interest": {
+      "propertyType": "Terreno",
+      "maxPrice": 1212596
+    },
+    "createdAt": "2026-01-18T00:56:52.409Z"
+  },
+  {
+    "id": "cli-2h9k4998j",
+    "name": "Bruno Almeida",
+    "type": "Investidor",
+    "email": "lucas.lima@example.com",
+    "phone": "(11) 91256-9529",
+    "interest": {
+      "propertyType": "Apartamento",
+      "maxPrice": 614563
+    },
+    "createdAt": "2025-11-12T19:13:07.189Z"
+  },
+  {
+    "id": "cli-f0hsp8qlj",
+    "name": "Sofia Martins",
+    "type": "Vendedor",
+    "email": "igor.almeida@example.com",
+    "phone": "(11) 99526-5557",
+    "interest": {
+      "propertyType": "Casa",
+      "maxPrice": 2962524
+    },
+    "createdAt": "2025-04-06T22:41:01.705Z"
+  },
+  {
+    "id": "cli-r5ouha20h",
+    "name": "Julia Lima",
+    "type": "Locador",
+    "email": "sofia.ribeiro@example.com",
+    "phone": "(11) 93880-5855",
+    "interest": {
+      "propertyType": "Comercial",
+      "maxPrice": 707894
+    },
+    "createdAt": "2025-09-03T00:17:20.998Z"
+  },
+  {
+    "id": "cli-s2moc3175",
+    "name": "Pedro Oliveira",
+    "type": "Vendedor",
+    "email": "pedro.santos@example.com",
+    "phone": "(11) 95948-4831",
+    "interest": {
+      "propertyType": "Apartamento",
+      "maxPrice": 851410
+    },
+    "createdAt": "2025-07-28T02:14:58.681Z"
+  },
+  {
+    "id": "cli-tw2hsatoy",
+    "name": "Ana Pereira",
+    "type": "Comprador",
+    "email": "pedro.costa@example.com",
+    "phone": "(11) 95464-9563",
+    "interest": {
+      "propertyType": "Apartamento",
+      "maxPrice": 1616523
+    },
+    "createdAt": "2025-05-05T09:49:28.569Z"
+  },
+  {
+    "id": "cli-wpnr2l8su",
+    "name": "Fernanda Silva",
+    "type": "Locatário",
+    "email": "daniela.ferreira@example.com",
+    "phone": "(11) 91849-4631",
+    "interest": {
+      "propertyType": "Terreno",
+      "maxPrice": 2914526
+    },
+    "createdAt": "2025-05-28T01:39:33.129Z"
+  },
+  {
+    "id": "cli-8cuxkr7ek",
+    "name": "Sofia Lima",
+    "type": "Comprador",
+    "email": "pedro.ribeiro@example.com",
+    "phone": "(11) 92362-5418",
+    "interest": {
+      "propertyType": "Terreno",
+      "maxPrice": 574526
+    },
+    "createdAt": "2025-08-19T03:21:44.949Z"
+  },
+  {
+    "id": "cli-tl30ppygz",
+    "name": "Daniela Ribeiro",
+    "type": "Locatário",
+    "email": "daniela.ribeiro@example.com",
+    "phone": "(11) 96174-6442",
+    "interest": {
+      "propertyType": "Cobertura",
+      "maxPrice": 527927
+    },
+    "createdAt": "2025-07-23T03:52:41.240Z"
+  },
+  {
+    "id": "cli-xe0uadc1e",
+    "name": "Ana Ribeiro",
+    "type": "Vendedor",
+    "email": "ana.ribeiro@example.com",
+    "phone": "(11) 92881-1457",
+    "interest": {
+      "propertyType": "Comercial",
+      "maxPrice": 1965061
+    },
+    "createdAt": "2026-03-01T04:02:30.804Z"
+  },
+  {
+    "id": "cli-x7ad2u5ga",
+    "name": "Bruno Pereira",
+    "type": "Vendedor",
+    "email": "helena.silva@example.com",
+    "phone": "(11) 96228-7069",
+    "interest": {
+      "propertyType": "Comercial",
+      "maxPrice": 2027991
+    },
+    "createdAt": "2025-10-27T01:39:46.162Z"
+  },
+  {
+    "id": "cli-stipm2x07",
+    "name": "Eduardo Costa",
+    "type": "Investidor",
+    "email": "julia.oliveira@example.com",
+    "phone": "(11) 96093-2503",
+    "interest": {
+      "propertyType": "Cobertura",
+      "maxPrice": 887975
+    },
+    "createdAt": "2025-08-11T18:29:50.146Z"
+  },
+  {
+    "id": "cli-joz9rwpra",
+    "name": "Igor Ribeiro",
+    "type": "Locatário",
+    "email": "bruno.almeida@example.com",
+    "phone": "(11) 98076-1052",
+    "interest": {
+      "propertyType": "Apartamento",
+      "maxPrice": 910921
+    },
+    "createdAt": "2025-08-08T14:58:40.332Z"
+  },
+  {
+    "id": "cli-epbhp0h58",
+    "name": "Fernanda Souza",
+    "type": "Comprador",
+    "email": "fernanda.santos@example.com",
+    "phone": "(11) 96749-3580",
+    "interest": {
+      "propertyType": "Comercial",
+      "maxPrice": 2527619
+    },
+    "createdAt": "2025-07-26T19:36:22.876Z"
+  },
+  {
+    "id": "cli-3yxomiz2k",
+    "name": "Igor Lima",
+    "type": "Vendedor",
+    "email": "bruno.almeida@example.com",
+    "phone": "(11) 92489-6904",
+    "interest": {
+      "propertyType": "Terreno",
+      "maxPrice": 1110886
+    },
+    "createdAt": "2025-12-06T17:18:04.340Z"
+  },
+  {
+    "id": "cli-toz8af9s3",
+    "name": "Daniela Almeida",
+    "type": "Comprador",
+    "email": "gabriel.martins@example.com",
+    "phone": "(11) 94882-4065",
+    "interest": {
+      "propertyType": "Casa",
+      "maxPrice": 1056200
+    },
+    "createdAt": "2026-02-04T11:26:04.548Z"
+  },
+  {
+    "id": "cli-h01t4hjgd",
+    "name": "Sofia Costa",
+    "type": "Comprador",
+    "email": "julia.almeida@example.com",
+    "phone": "(11) 99705-1300",
+    "interest": {
+      "propertyType": "Apartamento",
+      "maxPrice": 1200633
+    },
+    "createdAt": "2026-01-21T00:16:26.612Z"
+  },
+  {
+    "id": "cli-ps13p4xkr",
+    "name": "Fernanda Costa",
+    "type": "Comprador",
+    "email": "fernanda.lima@example.com",
+    "phone": "(11) 92512-8512",
+    "interest": {
+      "propertyType": "Casa",
+      "maxPrice": 2695984
+    },
+    "createdAt": "2026-02-28T18:35:59.677Z"
+  },
+  {
+    "id": "cli-pnxbzzjxf",
+    "name": "Sofia Rodrigues",
+    "type": "Locatário",
+    "email": "mariana.alves@example.com",
+    "phone": "(11) 98043-3819",
+    "interest": {
+      "propertyType": "Comercial",
+      "maxPrice": 1601149
+    },
+    "createdAt": "2026-02-08T05:03:46.045Z"
+  },
+  {
+    "id": "cli-7buyrlgeu",
+    "name": "Sofia Gomes",
+    "type": "Investidor",
+    "email": "fernanda.martins@example.com",
+    "phone": "(11) 91741-8190",
+    "interest": {
+      "propertyType": "Apartamento",
+      "maxPrice": 2179389
+    },
+    "createdAt": "2025-08-05T03:02:18.981Z"
+  },
+  {
+    "id": "cli-hdxcsnvan",
+    "name": "Helena Ferreira",
+    "type": "Investidor",
+    "email": "sofia.ribeiro@example.com",
+    "phone": "(11) 91602-3679",
+    "interest": {
+      "propertyType": "Casa",
+      "maxPrice": 2009630
+    },
+    "createdAt": "2026-01-05T15:10:49.930Z"
+  },
+  {
+    "id": "cli-63b1o3n79",
+    "name": "Bruno Costa",
+    "type": "Locador",
+    "email": "fernanda.rodrigues@example.com",
+    "phone": "(11) 97469-2334",
+    "interest": {
+      "propertyType": "Comercial",
+      "maxPrice": 754045
+    },
+    "createdAt": "2025-04-17T15:18:12.145Z"
+  },
+  {
+    "id": "cli-f10ic5424",
+    "name": "Julia Carvalho",
+    "type": "Vendedor",
+    "email": "helena.ribeiro@example.com",
+    "phone": "(11) 98525-2901",
+    "interest": {
+      "propertyType": "Casa",
+      "maxPrice": 1829428
+    },
+    "createdAt": "2025-04-05T20:11:39.911Z"
+  },
+  {
+    "id": "cli-xi22g11hi",
+    "name": "Lucas Santos",
+    "type": "Vendedor",
+    "email": "mariana.carvalho@example.com",
+    "phone": "(11) 99521-6365",
+    "interest": {
+      "propertyType": "Comercial",
+      "maxPrice": 1788003
+    },
+    "createdAt": "2025-10-21T02:52:34.030Z"
+  },
+  {
+    "id": "cli-yb6bb5z9n",
+    "name": "Pedro Gomes",
+    "type": "Locador",
+    "email": "gabriel.alves@example.com",
+    "phone": "(11) 94008-9109",
+    "interest": {
+      "propertyType": "Cobertura",
+      "maxPrice": 1182362
+    },
+    "createdAt": "2026-01-20T13:20:49.759Z"
+  },
+  {
+    "id": "cli-r6kur2wn3",
+    "name": "Pedro Almeida",
+    "type": "Investidor",
+    "email": "igor.ribeiro@example.com",
+    "phone": "(11) 99999-8690",
+    "interest": {
+      "propertyType": "Casa",
+      "maxPrice": 1015844
+    },
+    "createdAt": "2025-07-06T02:23:14.716Z"
+  },
+  {
+    "id": "cli-cc7bo1tfh",
+    "name": "Pedro Carvalho",
+    "type": "Comprador",
+    "email": "ana.almeida@example.com",
+    "phone": "(11) 94493-7594",
+    "interest": {
+      "propertyType": "Casa",
+      "maxPrice": 1048699
+    },
+    "createdAt": "2026-01-29T09:37:28.934Z"
+  },
+  {
+    "id": "cli-vs2figo17",
+    "name": "Fernanda Rodrigues",
+    "type": "Locador",
+    "email": "daniela.pereira@example.com",
+    "phone": "(11) 92502-6210",
+    "interest": {
+      "propertyType": "Terreno",
+      "maxPrice": 2399999
+    },
+    "createdAt": "2025-07-17T09:13:33.216Z"
+  },
+  {
+    "id": "cli-41fyhnmsu",
+    "name": "Helena Almeida",
+    "type": "Investidor",
+    "email": "rafael.almeida@example.com",
+    "phone": "(11) 97538-8130",
+    "interest": {
+      "propertyType": "Casa",
+      "maxPrice": 603787
+    },
+    "createdAt": "2025-08-20T14:37:42.055Z"
+  },
+  {
+    "id": "cli-oy1xjijl8",
+    "name": "Helena Carvalho",
+    "type": "Locatário",
+    "email": "julia.martins@example.com",
+    "phone": "(11) 97059-6215",
+    "interest": {
+      "propertyType": "Cobertura",
+      "maxPrice": 2404815
+    },
+    "createdAt": "2025-05-16T09:23:09.642Z"
+  },
+  {
+    "id": "cli-hvo75o6du",
+    "name": "Pedro Souza",
+    "type": "Locador",
+    "email": "daniela.almeida@example.com",
+    "phone": "(11) 95883-5273",
+    "interest": {
+      "propertyType": "Apartamento",
+      "maxPrice": 1552032
+    },
+    "createdAt": "2026-01-29T22:16:46.020Z"
+  },
+  {
+    "id": "cli-txxldar2p",
+    "name": "Pedro Lima",
+    "type": "Locatário",
+    "email": "gabriel.pereira@example.com",
+    "phone": "(11) 93771-8078",
+    "interest": {
+      "propertyType": "Casa",
+      "maxPrice": 1830946
+    },
+    "createdAt": "2025-11-16T23:48:41.978Z"
+  },
+  {
+    "id": "cli-zhayp5fuj",
+    "name": "Igor Ferreira",
+    "type": "Vendedor",
+    "email": "julia.alves@example.com",
+    "phone": "(11) 97580-5245",
+    "interest": {
+      "propertyType": "Comercial",
+      "maxPrice": 700137
+    },
+    "createdAt": "2025-07-21T07:20:30.094Z"
+  },
+  {
+    "id": "cli-pz9lpj57b",
+    "name": "Fernanda Carvalho",
+    "type": "Locatário",
+    "email": "lucas.oliveira@example.com",
+    "phone": "(11) 93023-4508",
+    "interest": {
+      "propertyType": "Casa",
+      "maxPrice": 1049513
+    },
+    "createdAt": "2025-08-10T22:28:14.506Z"
+  },
+  {
+    "id": "cli-2u7rr5816",
+    "name": "Lucas Santos",
+    "type": "Vendedor",
+    "email": "carlos.santos@example.com",
+    "phone": "(11) 95903-5367",
+    "interest": {
+      "propertyType": "Terreno",
+      "maxPrice": 2733958
+    },
+    "createdAt": "2025-06-11T01:58:26.031Z"
+  },
+  {
+    "id": "cli-as5ggh6qe",
+    "name": "Daniela Rodrigues",
+    "type": "Locatário",
+    "email": "bruno.alves@example.com",
+    "phone": "(11) 96053-6903",
+    "interest": {
+      "propertyType": "Cobertura",
+      "maxPrice": 1293212
+    },
+    "createdAt": "2025-08-04T18:40:37.646Z"
+  },
+  {
+    "id": "cli-54plssf08",
+    "name": "Julia Martins",
+    "type": "Locatário",
+    "email": "daniela.almeida@example.com",
+    "phone": "(11) 97694-6787",
+    "interest": {
+      "propertyType": "Comercial",
+      "maxPrice": 2347562
+    },
+    "createdAt": "2025-09-20T06:38:19.475Z"
+  },
+  {
+    "id": "cli-rot3o3gi2",
+    "name": "Fernanda Ferreira",
+    "type": "Locatário",
+    "email": "lucas.martins@example.com",
+    "phone": "(11) 94028-4726",
+    "interest": {
+      "propertyType": "Cobertura",
+      "maxPrice": 2921239
+    },
+    "createdAt": "2025-09-25T19:00:59.643Z"
+  },
+  {
+    "id": "cli-wunge64y2",
+    "name": "Helena Ribeiro",
+    "type": "Vendedor",
+    "email": "fernanda.oliveira@example.com",
+    "phone": "(11) 96215-3209",
+    "interest": {
+      "propertyType": "Apartamento",
+      "maxPrice": 1106509
+    },
+    "createdAt": "2025-08-22T15:41:21.085Z"
+  },
+  {
+    "id": "cli-vauxuoaim",
+    "name": "Sofia Almeida",
+    "type": "Investidor",
+    "email": "fernanda.carvalho@example.com",
+    "phone": "(11) 94939-8783",
+    "interest": {
+      "propertyType": "Terreno",
+      "maxPrice": 2996834
+    },
+    "createdAt": "2025-07-26T22:09:31.650Z"
+  },
+  {
+    "id": "cli-s0fark8pw",
+    "name": "Carlos Santos",
+    "type": "Vendedor",
+    "email": "ana.alves@example.com",
+    "phone": "(11) 91761-4241",
+    "interest": {
+      "propertyType": "Cobertura",
+      "maxPrice": 2301947
+    },
+    "createdAt": "2025-11-06T08:25:54.148Z"
+  },
+  {
+    "id": "cli-u4wjobmqc",
+    "name": "Gabriel Ribeiro",
+    "type": "Locador",
+    "email": "ana.costa@example.com",
+    "phone": "(11) 96084-4520",
+    "interest": {
+      "propertyType": "Cobertura",
+      "maxPrice": 591436
+    },
+    "createdAt": "2025-06-28T04:03:51.296Z"
+  },
+  {
+    "id": "cli-z974oixat",
+    "name": "Helena Silva",
+    "type": "Investidor",
+    "email": "bruno.pereira@example.com",
+    "phone": "(11) 98467-8084",
+    "interest": {
+      "propertyType": "Cobertura",
+      "maxPrice": 1554556
+    },
+    "createdAt": "2026-03-18T02:44:56.827Z"
+  },
+  {
+    "id": "cli-syuiw29oz",
+    "name": "Eduardo Santos",
+    "type": "Investidor",
+    "email": "ana.silva@example.com",
+    "phone": "(11) 96814-4715",
+    "interest": {
+      "propertyType": "Comercial",
+      "maxPrice": 2531364
+    },
+    "createdAt": "2025-11-17T06:41:50.022Z"
+  },
+  {
+    "id": "cli-aenieigmy",
+    "name": "Pedro Carvalho",
+    "type": "Investidor",
+    "email": "fernanda.alves@example.com",
+    "phone": "(11) 99502-8450",
+    "interest": {
+      "propertyType": "Apartamento",
+      "maxPrice": 2405975
+    },
+    "createdAt": "2025-05-01T17:49:46.148Z"
+  },
+  {
+    "id": "cli-kxips85mj",
+    "name": "Igor Almeida",
+    "type": "Locador",
+    "email": "mariana.gomes@example.com",
+    "phone": "(11) 94600-2927",
+    "interest": {
+      "propertyType": "Apartamento",
+      "maxPrice": 2480121
+    },
+    "createdAt": "2026-02-03T18:58:12.631Z"
+  },
+  {
+    "id": "cli-kcs0rxwv9",
+    "name": "Bruno Almeida",
+    "type": "Comprador",
+    "email": "igor.lima@example.com",
+    "phone": "(11) 94560-3930",
+    "interest": {
+      "propertyType": "Comercial",
+      "maxPrice": 2602479
+    },
+    "createdAt": "2025-05-12T11:44:19.003Z"
+  },
+  {
+    "id": "cli-au8zhpfxe",
+    "name": "Ana Ribeiro",
+    "type": "Vendedor",
+    "email": "eduardo.costa@example.com",
+    "phone": "(11) 91714-7455",
+    "interest": {
+      "propertyType": "Comercial",
+      "maxPrice": 1496320
+    },
+    "createdAt": "2025-06-12T11:01:56.111Z"
+  },
+  {
+    "id": "cli-mgwwv08nk",
+    "name": "Mariana Santos",
+    "type": "Vendedor",
+    "email": "rafael.rodrigues@example.com",
+    "phone": "(11) 98962-3878",
+    "interest": {
+      "propertyType": "Terreno",
+      "maxPrice": 2047709
+    },
+    "createdAt": "2026-02-01T20:23:29.501Z"
+  },
+  {
+    "id": "cli-b3rlwupjz",
+    "name": "Lucas Alves",
+    "type": "Locador",
+    "email": "gabriel.almeida@example.com",
+    "phone": "(11) 95306-4229",
+    "interest": {
+      "propertyType": "Terreno",
+      "maxPrice": 2018152
+    },
+    "createdAt": "2025-07-24T04:56:41.818Z"
+  },
+  {
+    "id": "cli-xacntt80d",
+    "name": "Lucas Souza",
+    "type": "Locatário",
+    "email": "helena.ferreira@example.com",
+    "phone": "(11) 96346-4107",
+    "interest": {
+      "propertyType": "Cobertura",
+      "maxPrice": 910316
+    },
+    "createdAt": "2025-10-20T01:20:19.271Z"
+  },
+  {
+    "id": "cli-xuasrie61",
+    "name": "Daniela Ribeiro",
+    "type": "Investidor",
+    "email": "pedro.rodrigues@example.com",
+    "phone": "(11) 99192-9957",
+    "interest": {
+      "propertyType": "Comercial",
+      "maxPrice": 880571
+    },
+    "createdAt": "2026-01-31T03:33:02.915Z"
+  },
+  {
+    "id": "cli-a1g5l9yiu",
+    "name": "Bruno Ferreira",
+    "type": "Investidor",
+    "email": "mariana.carvalho@example.com",
+    "phone": "(11) 94896-4902",
+    "interest": {
+      "propertyType": "Casa",
+      "maxPrice": 2291226
+    },
+    "createdAt": "2025-03-24T17:29:45.199Z"
+  },
+  {
+    "id": "cli-9zm0gpcz6",
+    "name": "Lucas Pereira",
+    "type": "Locador",
+    "email": "pedro.costa@example.com",
+    "phone": "(11) 94405-6214",
+    "interest": {
+      "propertyType": "Cobertura",
+      "maxPrice": 2937846
+    },
+    "createdAt": "2025-12-30T02:52:32.894Z"
+  },
+  {
+    "id": "cli-saab2b7wg",
+    "name": "Mariana Ribeiro",
+    "type": "Vendedor",
+    "email": "bruno.pereira@example.com",
+    "phone": "(11) 94208-7930",
+    "interest": {
+      "propertyType": "Terreno",
+      "maxPrice": 884110
+    },
+    "createdAt": "2025-11-20T19:35:31.223Z"
+  },
+  {
+    "id": "cli-r2lq5aq6j",
+    "name": "Julia Santos",
+    "type": "Investidor",
+    "email": "fernanda.souza@example.com",
+    "phone": "(11) 94612-8048",
+    "interest": {
+      "propertyType": "Casa",
+      "maxPrice": 1185069
+    },
+    "createdAt": "2025-09-06T20:01:44.050Z"
+  },
+  {
+    "id": "cli-mijq2s1pv",
+    "name": "Igor Lima",
+    "type": "Vendedor",
+    "email": "bruno.gomes@example.com",
+    "phone": "(11) 99064-3233",
+    "interest": {
+      "propertyType": "Apartamento",
+      "maxPrice": 2244751
+    },
+    "createdAt": "2026-01-10T10:20:49.205Z"
+  },
+  {
+    "id": "cli-d895wofqa",
+    "name": "Eduardo Pereira",
+    "type": "Vendedor",
+    "email": "ana.alves@example.com",
+    "phone": "(11) 92842-2056",
+    "interest": {
+      "propertyType": "Casa",
+      "maxPrice": 1996591
+    },
+    "createdAt": "2025-07-25T15:31:17.065Z"
+  },
+  {
+    "id": "cli-xtbjco78l",
+    "name": "Carlos Costa",
+    "type": "Comprador",
+    "email": "daniela.martins@example.com",
+    "phone": "(11) 93463-1779",
+    "interest": {
+      "propertyType": "Casa",
+      "maxPrice": 2367852
+    },
+    "createdAt": "2025-11-20T07:00:07.244Z"
+  },
+  {
+    "id": "cli-cands2n8i",
+    "name": "Mariana Pereira",
+    "type": "Investidor",
+    "email": "daniela.costa@example.com",
+    "phone": "(11) 93894-9924",
+    "interest": {
+      "propertyType": "Comercial",
+      "maxPrice": 2674360
+    },
+    "createdAt": "2026-01-19T17:55:01.584Z"
+  },
+  {
+    "id": "cli-p21lsptgq",
+    "name": "Igor Ferreira",
+    "type": "Vendedor",
+    "email": "mariana.pereira@example.com",
+    "phone": "(11) 92514-4347",
+    "interest": {
+      "propertyType": "Apartamento",
+      "maxPrice": 1392647
+    },
+    "createdAt": "2025-03-21T04:14:23.968Z"
+  },
+  {
+    "id": "cli-6dyw9c79i",
+    "name": "Lucas Silva",
+    "type": "Comprador",
+    "email": "ana.ribeiro@example.com",
+    "phone": "(11) 92033-7490",
+    "interest": {
+      "propertyType": "Cobertura",
+      "maxPrice": 1607246
+    },
+    "createdAt": "2025-06-10T00:37:04.220Z"
+  },
+  {
+    "id": "cli-qo8m0kqk2",
+    "name": "Bruno Carvalho",
+    "type": "Vendedor",
+    "email": "mariana.santos@example.com",
+    "phone": "(11) 98008-6241",
+    "interest": {
+      "propertyType": "Terreno",
+      "maxPrice": 2882112
+    },
+    "createdAt": "2026-01-18T00:10:09.808Z"
+  },
+  {
+    "id": "cli-4e2ilzj68",
+    "name": "Eduardo Pereira",
+    "type": "Comprador",
+    "email": "ana.santos@example.com",
+    "phone": "(11) 97202-3456",
+    "interest": {
+      "propertyType": "Casa",
+      "maxPrice": 1785704
+    },
+    "createdAt": "2025-08-25T23:15:00.503Z"
+  },
+  {
+    "id": "cli-tocaedj0j",
+    "name": "Gabriel Ferreira",
+    "type": "Locatário",
+    "email": "eduardo.oliveira@example.com",
+    "phone": "(11) 96831-8110",
+    "interest": {
+      "propertyType": "Terreno",
+      "maxPrice": 645976
+    },
+    "createdAt": "2025-08-06T13:10:10.576Z"
+  },
+  {
+    "id": "cli-6m98637vs",
+    "name": "Helena Alves",
+    "type": "Investidor",
+    "email": "bruno.santos@example.com",
+    "phone": "(11) 93744-1999",
+    "interest": {
+      "propertyType": "Casa",
+      "maxPrice": 2652755
+    },
+    "createdAt": "2025-07-16T23:01:55.047Z"
+  },
+  {
+    "id": "cli-v3rabcocs",
+    "name": "Rafael Souza",
+    "type": "Locador",
+    "email": "bruno.alves@example.com",
+    "phone": "(11) 98270-5378",
+    "interest": {
+      "propertyType": "Casa",
+      "maxPrice": 1847826
+    },
+    "createdAt": "2025-08-28T07:34:14.861Z"
+  },
+  {
+    "id": "cli-sp17650l0",
+    "name": "Lucas Pereira",
+    "type": "Locatário",
+    "email": "daniela.gomes@example.com",
+    "phone": "(11) 99799-7315",
+    "interest": {
+      "propertyType": "Terreno",
+      "maxPrice": 583115
+    },
+    "createdAt": "2025-08-01T15:17:43.000Z"
+  },
+  {
+    "id": "cli-7r2ig5m1s",
+    "name": "Rafael Lima",
+    "type": "Locador",
+    "email": "pedro.ribeiro@example.com",
+    "phone": "(11) 96837-9133",
+    "interest": {
+      "propertyType": "Comercial",
+      "maxPrice": 671683
+    },
+    "createdAt": "2025-05-11T09:09:47.687Z"
+  },
+  {
+    "id": "cli-5ijk00tx1",
+    "name": "Pedro Santos",
+    "type": "Locatário",
+    "email": "sofia.souza@example.com",
+    "phone": "(11) 94094-1530",
+    "interest": {
+      "propertyType": "Apartamento",
+      "maxPrice": 2864719
+    },
+    "createdAt": "2025-09-21T06:04:40.965Z"
+  },
+  {
+    "id": "cli-qz0cl987m",
+    "name": "Julia Almeida",
+    "type": "Investidor",
+    "email": "eduardo.oliveira@example.com",
+    "phone": "(11) 92766-4611",
+    "interest": {
+      "propertyType": "Apartamento",
+      "maxPrice": 995903
+    },
+    "createdAt": "2025-03-27T15:52:04.334Z"
+  },
+  {
+    "id": "cli-0goncic6n",
+    "name": "Igor Silva",
+    "type": "Vendedor",
+    "email": "helena.costa@example.com",
+    "phone": "(11) 99362-7261",
+    "interest": {
+      "propertyType": "Apartamento",
+      "maxPrice": 1053328
+    },
+    "createdAt": "2025-04-04T11:18:17.740Z"
+  },
+  {
+    "id": "cli-3qs56k0nz",
+    "name": "Sofia Alves",
+    "type": "Investidor",
+    "email": "helena.martins@example.com",
+    "phone": "(11) 97859-8694",
+    "interest": {
+      "propertyType": "Terreno",
+      "maxPrice": 623274
+    },
+    "createdAt": "2025-06-24T01:44:35.394Z"
+  },
+  {
+    "id": "cli-0vsu86q54",
+    "name": "Daniela Ribeiro",
+    "type": "Investidor",
+    "email": "mariana.pereira@example.com",
+    "phone": "(11) 92028-9975",
+    "interest": {
+      "propertyType": "Apartamento",
+      "maxPrice": 2516104
+    },
+    "createdAt": "2025-10-19T05:59:18.863Z"
+  },
+  {
+    "id": "cli-tmwxtxjma",
+    "name": "Mariana Oliveira",
+    "type": "Locador",
+    "email": "bruno.gomes@example.com",
+    "phone": "(11) 95074-7215",
+    "interest": {
+      "propertyType": "Terreno",
+      "maxPrice": 1479115
+    },
+    "createdAt": "2025-12-12T02:11:25.317Z"
+  },
+  {
+    "id": "cli-jq3mwqc9x",
+    "name": "Sofia Costa",
+    "type": "Vendedor",
+    "email": "pedro.lima@example.com",
+    "phone": "(11) 95018-7589",
+    "interest": {
+      "propertyType": "Cobertura",
+      "maxPrice": 1696227
+    },
+    "createdAt": "2026-01-16T20:14:44.636Z"
+  },
+  {
+    "id": "cli-cjhokca4t",
+    "name": "Gabriel Martins",
+    "type": "Investidor",
+    "email": "igor.pereira@example.com",
+    "phone": "(11) 92429-8230",
+    "interest": {
+      "propertyType": "Comercial",
+      "maxPrice": 1650368
+    },
+    "createdAt": "2025-03-30T00:02:47.467Z"
+  },
+  {
+    "id": "cli-qbbccyp3",
+    "name": "Bruno Lima",
+    "type": "Comprador",
+    "email": "helena.martins@example.com",
+    "phone": "(11) 97158-5096",
+    "interest": {
+      "propertyType": "Terreno",
+      "maxPrice": 2028774
+    },
+    "createdAt": "2025-03-28T14:50:09.926Z"
+  },
+  {
+    "id": "cli-zictj1v1y",
+    "name": "Gabriel Gomes",
+    "type": "Comprador",
+    "email": "bruno.alves@example.com",
+    "phone": "(11) 93552-2234",
+    "interest": {
+      "propertyType": "Apartamento",
+      "maxPrice": 2844398
+    },
+    "createdAt": "2025-09-22T05:05:19.242Z"
+  },
+  {
+    "id": "cli-p5tqx56f2",
+    "name": "Daniela Silva",
+    "type": "Comprador",
+    "email": "mariana.gomes@example.com",
+    "phone": "(11) 94376-4237",
+    "interest": {
+      "propertyType": "Terreno",
+      "maxPrice": 1671037
+    },
+    "createdAt": "2025-04-24T17:57:56.632Z"
+  },
+  {
+    "id": "cli-jjlg34z2f",
+    "name": "Sofia Silva",
+    "type": "Vendedor",
+    "email": "fernanda.gomes@example.com",
+    "phone": "(11) 95616-9926",
+    "interest": {
+      "propertyType": "Comercial",
+      "maxPrice": 884650
+    },
+    "createdAt": "2025-09-13T10:27:49.247Z"
+  },
+  {
+    "id": "cli-xnsgd7hr3",
+    "name": "Carlos Lima",
+    "type": "Investidor",
+    "email": "lucas.martins@example.com",
+    "phone": "(11) 91259-6659",
+    "interest": {
+      "propertyType": "Terreno",
+      "maxPrice": 1390271
+    },
+    "createdAt": "2026-01-27T19:58:30.598Z"
+  },
+  {
+    "id": "cli-2e70h4kq8",
+    "name": "Helena Almeida",
+    "type": "Investidor",
+    "email": "daniela.lima@example.com",
+    "phone": "(11) 97592-4374",
+    "interest": {
+      "propertyType": "Cobertura",
+      "maxPrice": 2099664
+    },
+    "createdAt": "2025-11-23T16:55:01.884Z"
+  },
+  {
+    "id": "cli-if5imzy4f",
+    "name": "Bruno Ribeiro",
+    "type": "Investidor",
+    "email": "daniela.almeida@example.com",
+    "phone": "(11) 99146-9936",
+    "interest": {
+      "propertyType": "Cobertura",
+      "maxPrice": 1246601
+    },
+    "createdAt": "2026-02-21T02:45:18.914Z"
+  },
+  {
+    "id": "cli-uaxiyacma",
+    "name": "Helena Carvalho",
+    "type": "Locador",
+    "email": "igor.carvalho@example.com",
+    "phone": "(11) 96904-5404",
+    "interest": {
+      "propertyType": "Casa",
+      "maxPrice": 985718
+    },
+    "createdAt": "2025-09-04T13:02:30.422Z"
+  },
+  {
+    "id": "cli-sjr6sexsu",
+    "name": "Gabriel Lima",
+    "type": "Locador",
+    "email": "helena.carvalho@example.com",
+    "phone": "(11) 93607-4516",
+    "interest": {
+      "propertyType": "Comercial",
+      "maxPrice": 1001319
+    },
+    "createdAt": "2025-04-15T06:25:00.289Z"
+  },
+  {
+    "id": "cli-fb1z8dum0",
+    "name": "Sofia Gomes",
+    "type": "Locador",
+    "email": "fernanda.silva@example.com",
+    "phone": "(11) 94738-2269",
+    "interest": {
+      "propertyType": "Casa",
+      "maxPrice": 2955886
+    },
+    "createdAt": "2026-01-14T00:44:08.186Z"
+  },
+  {
+    "id": "cli-quy8i1ueg",
+    "name": "Eduardo Lima",
+    "type": "Locatário",
+    "email": "ana.carvalho@example.com",
+    "phone": "(11) 96866-8162",
+    "interest": {
+      "propertyType": "Terreno",
+      "maxPrice": 521408
+    },
+    "createdAt": "2025-07-27T17:33:38.757Z"
+  },
+  {
+    "id": "cli-c4syh656y",
+    "name": "Ana Almeida",
+    "type": "Vendedor",
+    "email": "lucas.pereira@example.com",
+    "phone": "(11) 92362-8368",
+    "interest": {
+      "propertyType": "Casa",
+      "maxPrice": 2158897
+    },
+    "createdAt": "2025-07-16T06:56:24.118Z"
+  },
+  {
+    "id": "cli-wxv8sxwk9",
+    "name": "Fernanda Costa",
+    "type": "Locatário",
+    "email": "fernanda.martins@example.com",
+    "phone": "(11) 91882-9440",
+    "interest": {
+      "propertyType": "Cobertura",
+      "maxPrice": 2190171
+    },
+    "createdAt": "2026-02-19T14:44:36.527Z"
+  },
+  {
+    "id": "cli-nrgqvikh4",
+    "name": "Igor Rodrigues",
+    "type": "Locatário",
+    "email": "fernanda.rodrigues@example.com",
+    "phone": "(11) 92495-8594",
+    "interest": {
+      "propertyType": "Comercial",
+      "maxPrice": 634872
+    },
+    "createdAt": "2025-05-20T11:03:41.797Z"
+  },
+  {
+    "id": "cli-wg47iop3b",
+    "name": "Sofia Almeida",
+    "type": "Comprador",
+    "email": "sofia.carvalho@example.com",
+    "phone": "(11) 93329-5349",
+    "interest": {
+      "propertyType": "Terreno",
+      "maxPrice": 1673546
+    },
+    "createdAt": "2025-04-24T06:28:39.598Z"
+  },
+  {
+    "id": "cli-h80svsfvz",
+    "name": "Helena Costa",
+    "type": "Investidor",
+    "email": "carlos.gomes@example.com",
+    "phone": "(11) 91714-6190",
+    "interest": {
+      "propertyType": "Casa",
+      "maxPrice": 781029
+    },
+    "createdAt": "2025-05-14T16:27:31.349Z"
+  },
+  {
+    "id": "cli-q111zalu1",
+    "name": "Gabriel Santos",
+    "type": "Investidor",
+    "email": "ana.lima@example.com",
+    "phone": "(11) 99254-1183",
+    "interest": {
+      "propertyType": "Casa",
+      "maxPrice": 2222150
+    },
+    "createdAt": "2025-05-09T18:59:49.712Z"
+  },
+  {
+    "id": "cli-ypasuyxmo",
+    "name": "Daniela Silva",
+    "type": "Comprador",
+    "email": "eduardo.costa@example.com",
+    "phone": "(11) 99921-8995",
+    "interest": {
+      "propertyType": "Apartamento",
+      "maxPrice": 1465043
+    },
+    "createdAt": "2025-06-28T13:42:32.601Z"
+  },
+  {
+    "id": "cli-4lg9uaxa8",
+    "name": "Sofia Oliveira",
+    "type": "Locatário",
+    "email": "ana.martins@example.com",
+    "phone": "(11) 97696-4496",
+    "interest": {
+      "propertyType": "Apartamento",
+      "maxPrice": 1154532
+    },
+    "createdAt": "2025-11-10T21:07:33.853Z"
+  },
+  {
+    "id": "cli-nr91308bn",
+    "name": "Igor Oliveira",
+    "type": "Locatário",
+    "email": "eduardo.costa@example.com",
+    "phone": "(11) 97710-8375",
+    "interest": {
+      "propertyType": "Terreno",
+      "maxPrice": 1133434
+    },
+    "createdAt": "2025-11-27T17:53:39.662Z"
+  },
+  {
+    "id": "cli-kxo4s55vg",
+    "name": "Helena Oliveira",
+    "type": "Comprador",
+    "email": "julia.ribeiro@example.com",
+    "phone": "(11) 92940-4854",
+    "interest": {
+      "propertyType": "Comercial",
+      "maxPrice": 864775
+    },
+    "createdAt": "2025-08-04T00:54:25.671Z"
+  },
+  {
+    "id": "cli-sdbq6vt5t",
+    "name": "Lucas Souza",
+    "type": "Investidor",
+    "email": "igor.rodrigues@example.com",
+    "phone": "(11) 97181-5195",
+    "interest": {
+      "propertyType": "Cobertura",
+      "maxPrice": 2587187
+    },
+    "createdAt": "2025-08-31T19:24:51.891Z"
+  },
+  {
+    "id": "cli-tad4wmfv3",
+    "name": "Helena Lima",
+    "type": "Locador",
+    "email": "bruno.alves@example.com",
+    "phone": "(11) 98883-5801",
+    "interest": {
+      "propertyType": "Terreno",
+      "maxPrice": 2076713
+    },
+    "createdAt": "2025-09-02T13:50:00.424Z"
+  },
+  {
+    "id": "cli-yw4h3komd",
+    "name": "Eduardo Souza",
+    "type": "Locatário",
+    "email": "daniela.silva@example.com",
+    "phone": "(11) 97120-1303",
+    "interest": {
+      "propertyType": "Apartamento",
+      "maxPrice": 1500477
+    },
+    "createdAt": "2025-08-17T20:15:49.808Z"
+  },
+  {
+    "id": "cli-2hzeiacjm",
+    "name": "Ana Costa",
+    "type": "Comprador",
+    "email": "rafael.santos@example.com",
+    "phone": "(11) 91304-4720",
+    "interest": {
+      "propertyType": "Apartamento",
+      "maxPrice": 2438956
+    },
+    "createdAt": "2025-06-06T05:23:30.467Z"
+  },
+  {
+    "id": "cli-cnygcn0f7",
+    "name": "Rafael Alves",
+    "type": "Locador",
+    "email": "rafael.ferreira@example.com",
+    "phone": "(11) 95725-2130",
+    "interest": {
+      "propertyType": "Apartamento",
+      "maxPrice": 933652
+    },
+    "createdAt": "2026-01-28T06:07:14.412Z"
+  },
+  {
+    "id": "cli-n74w9wm7n",
+    "name": "Rafael Souza",
+    "type": "Vendedor",
+    "email": "igor.ferreira@example.com",
+    "phone": "(11) 97856-4813",
+    "interest": {
+      "propertyType": "Comercial",
+      "maxPrice": 2401160
+    },
+    "createdAt": "2026-01-22T11:08:29.290Z"
+  },
+  {
+    "id": "cli-9bjheg1aj",
+    "name": "Daniela Gomes",
+    "type": "Investidor",
+    "email": "mariana.oliveira@example.com",
+    "phone": "(11) 99789-8394",
+    "interest": {
+      "propertyType": "Comercial",
+      "maxPrice": 2385671
+    },
+    "createdAt": "2026-02-09T12:09:08.464Z"
+  },
+  {
+    "id": "cli-4q860rqsu",
+    "name": "Rafael Silva",
+    "type": "Locador",
+    "email": "bruno.pereira@example.com",
+    "phone": "(11) 95486-3331",
+    "interest": {
+      "propertyType": "Cobertura",
+      "maxPrice": 619309
+    },
+    "createdAt": "2026-01-03T08:39:36.106Z"
+  },
+  {
+    "id": "cli-fdwpj3ha4",
+    "name": "Carlos Ferreira",
+    "type": "Locador",
+    "email": "lucas.martins@example.com",
+    "phone": "(11) 92525-6174",
+    "interest": {
+      "propertyType": "Cobertura",
+      "maxPrice": 1463025
+    },
+    "createdAt": "2025-10-03T22:41:23.655Z"
+  },
+  {
+    "id": "cli-gtxr6xjek",
+    "name": "Ana Pereira",
+    "type": "Locatário",
+    "email": "bruno.lima@example.com",
+    "phone": "(11) 98361-2517",
+    "interest": {
+      "propertyType": "Terreno",
+      "maxPrice": 1280704
+    },
+    "createdAt": "2025-06-15T10:27:28.960Z"
+  },
+  {
+    "id": "cli-48nm21s1o",
+    "name": "Sofia Ferreira",
+    "type": "Investidor",
+    "email": "daniela.silva@example.com",
+    "phone": "(11) 96676-3585",
+    "interest": {
+      "propertyType": "Casa",
+      "maxPrice": 1451327
+    },
+    "createdAt": "2025-11-26T22:25:06.290Z"
+  },
+  {
+    "id": "cli-xlzm0y1a5",
+    "name": "Rafael Silva",
+    "type": "Locador",
+    "email": "rafael.silva@example.com",
+    "phone": "(11) 96951-5589",
+    "interest": {
+      "propertyType": "Terreno",
+      "maxPrice": 2410435
+    },
+    "createdAt": "2025-09-19T06:48:11.783Z"
+  },
+  {
+    "id": "cli-ii0wspas3",
+    "name": "Sofia Ferreira",
+    "type": "Investidor",
+    "email": "gabriel.gomes@example.com",
+    "phone": "(11) 95278-4385",
+    "interest": {
+      "propertyType": "Apartamento",
+      "maxPrice": 2551085
+    },
+    "createdAt": "2026-01-03T18:34:46.431Z"
+  },
+  {
+    "id": "cli-ait5g9xbe",
+    "name": "Fernanda Alves",
+    "type": "Locador",
+    "email": "helena.gomes@example.com",
+    "phone": "(11) 97728-3138",
+    "interest": {
+      "propertyType": "Terreno",
+      "maxPrice": 2976061
+    },
+    "createdAt": "2025-05-24T15:20:40.289Z"
+  },
+  {
+    "id": "cli-wvao7n3go",
+    "name": "Mariana Souza",
+    "type": "Locatário",
+    "email": "lucas.alves@example.com",
+    "phone": "(11) 93861-4594",
+    "interest": {
+      "propertyType": "Casa",
+      "maxPrice": 2193174
+    },
+    "createdAt": "2025-07-30T21:39:22.416Z"
+  },
+  {
+    "id": "cli-rozfh8zl4",
+    "name": "Bruno Souza",
+    "type": "Investidor",
+    "email": "sofia.ribeiro@example.com",
+    "phone": "(11) 97672-2540",
+    "interest": {
+      "propertyType": "Comercial",
+      "maxPrice": 991811
+    },
+    "createdAt": "2025-04-22T22:33:41.290Z"
+  },
+  {
+    "id": "cli-ph9z332p7",
+    "name": "Lucas Ferreira",
+    "type": "Comprador",
+    "email": "daniela.rodrigues@example.com",
+    "phone": "(11) 91301-2638",
+    "interest": {
+      "propertyType": "Comercial",
+      "maxPrice": 2651317
+    },
+    "createdAt": "2025-06-04T11:46:25.998Z"
+  },
+  {
+    "id": "cli-wzec1wzwt",
+    "name": "Mariana Lima",
+    "type": "Investidor",
+    "email": "julia.pereira@example.com",
+    "phone": "(11) 98343-8236",
+    "interest": {
+      "propertyType": "Casa",
+      "maxPrice": 1524848
+    },
+    "createdAt": "2026-03-15T12:43:14.834Z"
+  },
+  {
+    "id": "cli-1ntnx7vrq",
+    "name": "Julia Santos",
+    "type": "Investidor",
+    "email": "fernanda.rodrigues@example.com",
+    "phone": "(11) 93156-1045",
+    "interest": {
+      "propertyType": "Terreno",
+      "maxPrice": 792122
+    },
+    "createdAt": "2026-01-05T03:59:01.008Z"
+  },
+  {
+    "id": "cli-io0g16g18",
+    "name": "Lucas Alves",
+    "type": "Comprador",
+    "email": "daniela.gomes@example.com",
+    "phone": "(11) 92164-5965",
+    "interest": {
+      "propertyType": "Cobertura",
+      "maxPrice": 2961928
+    },
+    "createdAt": "2026-02-25T20:08:20.116Z"
+  }
+]

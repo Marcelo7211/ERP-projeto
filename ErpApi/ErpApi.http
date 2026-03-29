@@ -1,0 +1,52 @@
+@ErpApi_HostAddress = http://localhost:5288
+@token = {{login.response.body.token}}
+
+POST {{ErpApi_HostAddress}}/api/auth/register
+Content-Type: application/json
+
+{
+  "name": "Administrador Inicial",
+  "email": "admin@imobiliariapro.com.br",
+  "password": "Senha@123"
+}
+
+###
+
+# @name login
+POST {{ErpApi_HostAddress}}/api/auth/login
+Content-Type: application/json
+
+{
+  "email": "admin@imobiliariapro.com.br",
+  "password": "Senha@123"
+}
+
+###
+
+GET {{ErpApi_HostAddress}}/api/clients?page=1&pageSize=20&orderBy=name:asc
+Authorization: Bearer {{token}}
+Accept: application/json
+
+###
+
+GET {{ErpApi_HostAddress}}/api/properties?page=1&pageSize=20&status=Disponível&orderBy=price:desc
+Authorization: Bearer {{token}}
+Accept: application/json
+
+###
+
+GET {{ErpApi_HostAddress}}/api/contracts?page=1&pageSize=20&status=Ativo
+Authorization: Bearer {{token}}
+Accept: application/json
+
+###
+
+GET {{ErpApi_HostAddress}}/api/pipeline?page=1&pageSize=20&stage=leads
+Authorization: Bearer {{token}}
+Accept: application/json
+
+###
+
+GET {{ErpApi_HostAddress}}/api/dashboard/summary
+Authorization: Bearer {{token}}
+Accept: application/json
