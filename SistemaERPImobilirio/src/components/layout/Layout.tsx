@@ -216,7 +216,7 @@ const Header = ({ onOpenMobileSidebar }: { onOpenMobileSidebar: () => void }) =>
 
       <div className="flex items-center gap-1.5 sm:gap-2">
         <a
-          href="https://github.com/LucasCapSilva/ERP-projeto"
+          href="https://github.com/Marcelo7211/ERP-projeto"
           target="_blank"
           rel="noopener noreferrer"
           aria-label="Acessar repositório do projeto no GitHub"
